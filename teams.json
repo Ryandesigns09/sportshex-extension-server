@@ -1,0 +1,3617 @@
+[
+{
+  "league": "National Hockey League",
+  "abbreviation": "NHL",
+  "sport": "hockey",
+  "logo": "nhl.png",
+  "league-colors": [
+      "#221f20", "#d0d2d3"
+    ],
+  "teams": [
+    {
+    "name": "Anaheim Ducks",
+    "logo": "",
+    "blurb": "The Anaheim Ducks have been a part of the NHL since 1993 and have won one Stanley Cup championship in 2007. The team has a strong fan base in Southern California and has had some great players over the years, including Teemu Selanne, Paul Kariya, and Scott Niedermayer. The Ducks play their home games at the Honda Center in Anaheim, which has a seating capacity of over 17,000. The team's colors are black, orange, and gold.",
+    "colors": [
+      "#000000",
+      "#f47a38",
+      "#b09862",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Arizona Coyotes",
+    "logo": "",
+    "blurb": "The Arizona Coyotes have been a part of the NHL since 1972 and have yet to win a Stanley Cup championship. Despite this, they have a loyal following in the Phoenix metropolitan area and throughout Arizona. The team has had some great players over the years, including Keith Tkachuk, Shane Doan, and Jeremy Roenick. The Coyotes play their home games at Gila River Arena, which is located in Glendale, Arizona.",
+    "colors": [
+      "#8c2633",
+      "#e2d6b5",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Boston Bruins",
+    "logo": "",
+    "blurb": "The Boston Bruins are a professional ice hockey team based in Boston, Massachusetts, and are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team was founded in 1924 and is the third-oldest active team in the NHL. The Bruins have won six Stanley Cup championships in their history, with the most recent coming in 2011. The team has had some legendary players over the years, including Bobby Orr, Ray Bourque, and Cam Neely. The Bruins play their home games at TD Garden, which is located in the North Station area of Boston and has a seating capacity of over 17,000.",
+    "colors": [
+      "#FFB81C",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Buffalo Sabres",
+    "logo": "",
+    "blurb": "The Buffalo Sabres have been a part of the NHL since 1970 and have yet to win a Stanley Cup championship. Despite this, they have a passionate fan base in their home city of Buffalo and throughout Western New York. The team has had some great players over the years, including Gilbert Perreault, Pat LaFontaine, and Dominik Hasek. The Sabres play their home games at KeyBank Center, which is located in downtown Buffalo and has a seating capacity of over 19,000.",
+    "colors": [
+      "#002654",
+      "#FDB813",
+      "#AEB6B9",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Calgary Flames",
+    "logo": "",
+    "blurb": "The Calgary Flames have been a part of the NHL since 1972 and have won one Stanley Cup championship in 1989. The team has a passionate following in their home city of Calgary and throughout Alberta. The Flames have had some great players over the years, including Jarome Iginla, Al MacInnis, and Theo Fleury. The Flames play their home games at the Scotiabank Saddledome, which has a unique saddle-shaped roof and is one of the most iconic arenas in the NHL.",
+    "colors": [
+      "#c8102e",
+      "#f1be48",
+      "#111111",
+      "#a2aaad",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Carolina Hurricanes",
+    "logo": "",
+    "blurb": "The Carolina Hurricanes have been a part of the NHL since 1972 and have won one Stanley Cup championship in 2006. They have a strong following in North Carolina and have produced some great players over the years, including Eric Staal, Ron Francis, and Rod Brind'Amour. The Hurricanes play their home games at the PNC Arena in Raleigh, North Carolina, which has a capacity of over 18,000 fans. The team is known for their unique post-game celebration, where they skate to center ice and salute their fans with raised sticks.",
+    "colors": [
+      "#CC0000",
+      "#000000",
+      "#A2AAAD",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Chicago Blackhawks",
+    "logo": "",
+    "blurb": "The Chicago Blackhawks are a professional ice hockey team based in Chicago, Illinois. They were founded in 1926 and have since won six Stanley Cup championships. The team has a rich history and boasts some of the greatest players in NHL history, such as Bobby Hull, Stan Mikita, and Denis Savard. The Blackhawks play their home games at the United Center, which is one of the largest arenas in the NHL, with a seating capacity of over 23,000. The team's logo features a Native American head, which has been a source of controversy in recent years.",
+    "colors": [
+      "#cf0a2c",
+      "#000000",
+      "#ffffff",
+      "#ff671b"
+    ]
+  },
+  {
+    "name": "Colorado Avalanche",
+    "logo": "",
+    "blurb": "The Colorado Avalanche have been a part of the NHL since 1995 and have won two Stanley Cup championships in 1996 and 2001. The team has a passionate fan base in Denver, Colorado, where they play their home games at the Pepsi Center. The Avalanche have had some great players over the years, including Joe Sakic, Peter Forsberg, and Patrick Roy. The team's colors are burgundy, blue, and white.",
+    "colors": [
+      "#6f263d",
+      "#236192",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Columbus Blue Jackets",
+    "logo": "",
+    "blurb": "The Columbus Blue Jackets are a professional ice hockey team based in Columbus, Ohio. They were founded in 2000 as an expansion team and have yet to win a Stanley Cup championship. Despite this, they have a dedicated fan base and have made the playoffs several times in recent years. The team has had some great players over the years, including Rick Nash, Sergei Bobrovsky, and Seth Jones. The Blue Jackets play their home games at Nationwide Arena, which opened in 2000 and has a seating capacity of over 18,000 fans.",
+    "colors": [
+      "#00285c",
+      "#c8102e",
+      "#a4a9ad"
+    ]
+  },
+  {
+    "name": "Dallas Stars",
+    "logo": "",
+    "blurb": "The Dallas Stars are a professional ice hockey team based in Dallas, Texas. They were founded in 1967 as the Minnesota North Stars and moved to Dallas in 1993. The team has won one Stanley Cup championship in 1999 and has had some great players over the years, including Mike Modano, Brett Hull, and Ed Belfour. The Stars play their home games at the American Airlines Center in Dallas, which opened in 2001 and has a seating capacity of over 18,000.",
+    "colors": [
+      "#006847",
+      "#8f8f8c",
+      "#c0c0c0",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Detroit Red Wings",
+    "logo": "",
+    "blurb": "The Detroit Red Wings are a professional ice hockey team based in Detroit, Michigan. They were founded in 1926 and are one of the Original Six teams of the NHL. The Red Wings have won 11 Stanley Cup championships, the third most of any NHL team. The team has had many legendary players over the years, including Gordie Howe, Steve Yzerman, and Nicklas Lidstrom. The Red Wings play their home games at Little Caesars Arena, which opened in 2017 and has a seating capacity of 19,515.",
+    "colors": [
+      "#e53935",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Edmonton Oilers",
+    "logo": "",
+    "blurb": "The Edmonton Oilers have been a part of the NHL since 1979 and have won five Stanley Cup championships in their history. They are known for their high-scoring offense and have had some of the greatest players in NHL history on their roster, including Wayne Gretzky, Mark Messier, and Jari Kurri. The team plays their home games at Rogers Place in Edmonton, Alberta, which opened in 2016 and has quickly become one of the premier arenas in the NHL.",
+    "colors": [
+      "#041e42",
+      "#ff4c00",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Florida Panthers",
+    "logo": "",
+    "blurb": "The Florida Panthers have been a part of the NHL since 1993 and have made the playoffs only five times in their history. However, they have a dedicated fan base in South Florida and have produced some great players over the years, including Pavel Bure, Roberto Luongo, and John Vanbiesbrouck. The team plays their home games at the BB&T Center in Sunrise, Florida. The Panthers have yet to win a Stanley Cup championship, but they have made it to the Stanley Cup Finals once in 1996, where they lost to the Colorado Avalanche.",
+    "colors": [
+      "#c8102e",
+      "#041e42",
+      "#b9975b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles Kings",
+    "logo": "",
+    "blurb": "The Los Angeles Kings have been a part of the NHL since 1967 and have won the Stanley Cup championship twice, in 2012 and 2014. The team has a strong following in Los Angeles and throughout Southern California, with dedicated fans known as the 'Kings Army'. The Kings have had some great players over the years, including Wayne Gretzky, Luc Robitaille, and Drew Doughty. The team plays their home games at the Staples Center, which is also home to the NBA's Los Angeles Lakers and Los Angeles Clippers.",
+    "colors": [
+      "#111111",
+      "#a2aaad",
+      "#ffffff",
+      "#ffb81c"
+    ]
+  },
+  {
+    "name": "Minnesota Wild",
+    "logo": "",
+    "blurb": "The Minnesota Wild are a professional ice hockey team based in Saint Paul, Minnesota. They were founded in 2000 and have been a part of the NHL's Western Conference Central Division since their inception. The Wild have yet to win a Stanley Cup championship, but have made it to the playoffs in nine of their 20 seasons. The team has had some notable players over the years, including Marian Gaborik, Mikko Koivu, and Zach Parise. The Wild play their home games at the Xcel Energy Center, which has been their home arena since 2000.",
+    "colors": [
+      "#154734",
+      "#A6192E",
+      "#DDCBA4",
+      "#EAAA00",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Montreal Canadiens",
+    "logo": "",
+    "blurb": "The Montreal Canadiens have been a part of the NHL since 1917 and are one of the oldest and most successful franchises in the league, with 24 Stanley Cup championships to their name. They are known for their passionate fanbase and their historic rivalry with the Toronto Maple Leafs. The Canadiens have had some legendary players over the years, including Maurice Richard, Jean Beliveau, and Guy Lafleur. They play their home games at the Bell Centre in downtown Montreal, which is one of the largest and most modern arenas in the NHL.",
+    "colors": [
+      "#af1e2d",
+      "#192168",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Nashville Predators",
+    "logo": "",
+    "blurb": "The Nashville Predators are a professional ice hockey team based in Nashville, Tennessee. They were founded in 1998 as an expansion team and have since become a staple in the NHL. The Predators have yet to win a Stanley Cup championship, but they have made it to the playoffs numerous times and have a dedicated fan base. The team is known for its strong defensive play and has had some great players over the years, including Shea Weber, Pekka Rinne, and Ryan Suter. The Predators play their home games at Bridgestone Arena, which is located in the heart of downtown Nashville.",
+    "colors": [
+      "#FFB81C",
+      "#002D62",
+      "#041C2C",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "New Jersey Devils",
+    "logo": "",
+    "blurb": "The New Jersey Devils have been a part of the NHL since 1974 and have won three Stanley Cup championships in 1995, 2000, and 2003. The team has a passionate fan base in the New Jersey area and has had some great players over the years, including Martin Brodeur, Scott Stevens, and Patrik Elias. The Devils play their home games at the Prudential Center in Newark, which opened in 2007 and has a seating capacity of over 16,000.",
+    "colors": [
+      "#ce1126",
+      "#000000",
+      "#ffffff",
+      "#a2aaad"
+    ]
+  },
+  {
+    "name": "New York Islanders",
+    "logo": "",
+    "blurb": "The New York Islanders are a professional ice hockey team based in Uniondale, New York. They were founded in 1972 and have won four consecutive Stanley Cup championships from 1980 to 1983. The team has a passionate fan base and plays their home games at the Nassau Veterans Memorial Coliseum. Over the years, the Islanders have had many great players, including Mike Bossy, Bryan Trottier, and Denis Potvin. The team has a bright future ahead of them and is poised to continue their success on the ice.",
+    "colors": [
+      "#00529c",
+      "#f47d30",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York Rangers",
+    "logo": "",
+    "blurb": "The New York Rangers have been a part of the NHL since 1926 and have won four Stanley Cup championships. They have a large and passionate fan base in New York City and are one of the Original Six teams in the NHL. The team has had some legendary players over the years, including Mark Messier, Wayne Gretzky, and Brian Leetch. The Rangers play their home games at Madison Square Garden, which is one of the most iconic sports arenas in the world.",
+    "colors": [
+      "#0038a8",
+      "#ce1126",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Ottawa Senators",
+    "logo": "",
+    "blurb": "The Ottawa Senators have been a part of the NHL since 1992 and have had some success in their relatively short history. They have made it to the Stanley Cup Finals once, in 2007, but ultimately lost to the Anaheim Ducks. The team has had some great players over the years, including Daniel Alfredsson, Erik Karlsson, and Jason Spezza. Despite some struggles in recent years, the Senators have a passionate fan base in Ottawa and throughout Canada. The Senators play their home games at the Canadian Tire Centre, which is located in the suburb of Kanata.",
+    "colors": [
+      "#c52032",
+      "#d1a24a",
+      "#101820",
+      "#c4c8cb"
+    ]
+  },
+  {
+    "name": "Philadelphia Flyers",
+    "logo": "",
+    "blurb": "The Philadelphia Flyers have been a part of the NHL since 1967 and have won two Stanley Cup championships. The team has a passionate fan base known as the 'Flyers Faithful' and is known for their physical style of play. The Flyers have had some legendary players over the years, including Bobby Clarke, Bernie Parent, and Eric Lindros. The team plays their home games at the Wells Fargo Center in Philadelphia, Pennsylvania.",
+    "colors": [
+      "#F74902",
+      "#000000",
+      "#FFFFFF",
+      "#FFB81C"
+    ]
+  },
+  {
+    "name": "Pittsburgh Penguins",
+    "logo": "",
+    "blurb": "The Pittsburgh Penguins are a professional ice hockey team based in Pittsburgh, Pennsylvania. They were founded in 1967 as one of the first expansion teams during the NHL's expansion from six to twelve teams. The team has won five Stanley Cup championships in their history, with their most recent championship coming in 2017. The Penguins have had some of the greatest players in NHL history play for them, including Mario Lemieux, Jaromir Jagr, and Sidney Crosby. The Penguins play their home games at PPG Paints Arena, which is located in downtown Pittsburgh.",
+    "colors": [
+      "#000000",
+      "#CFC493",
+      "#FCB514",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "San Jose Sharks",
+    "logo": "",
+    "blurb": "The San Jose Sharks are a professional ice hockey team based in San Jose, California. They were founded in 1991 and have been a part of the NHL ever since. The Sharks have yet to win a Stanley Cup championship, but they have made it to the finals once in 2016, where they lost to the Pittsburgh Penguins. Despite this, they have a loyal following in their home city and throughout Northern California. The team has had some great players over the years, including Joe Thornton, Patrick Marleau, and Brent Burns. The Sharks play their home games at SAP Center at San Jose, which is known for its loud and energetic atmosphere.",
+    "colors": [
+      "#006d75",
+      "#e64933",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Seattle Kraken",
+    "logo": "",
+    "blurb": "The Seattle Kraken are a professional ice hockey team that joined the National Hockey League (NHL) as an expansion team in 2021. The Kraken are the first NHL team to be based in Seattle, Washington, and they play their home games at the newly constructed Climate Pledge Arena. The team's name and logo pay homage to the maritime history of the Pacific Northwest, with the Kraken being a mythical sea creature known for its strength and ferocity. Despite being a new team, the Kraken have already built up a dedicated fanbase in Seattle and the surrounding areas.",
+    "colors": [
+      "#001628",
+      "#99d9d9",
+      "#ffffff",
+      "#ff9e1b"
+    ]
+  },
+  {
+    "name": "St. Louis Blues",
+    "logo": "",
+    "blurb": "The St. Louis Blues have been a part of the NHL since 1967 and have won one Stanley Cup championship in 2019. The team has a strong following in St. Louis and throughout Missouri. The Blues have had some great players over the years, including Brett Hull, Al MacInnis, and Chris Pronger. The team plays their home games at the Enterprise Center, which has a capacity of over 18,000 fans and is known for its lively atmosphere.",
+    "colors": [
+      "#002f87",
+      "#fcb514",
+      "#041e42",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Tampa Bay Lightning",
+    "logo": "",
+    "blurb": "The Tampa Bay Lightning are a professional ice hockey team based in Tampa, Florida. They were founded in 1992 and have since won three Stanley Cup championships in 2004, 2020, and 2021. The team has a strong following in the Tampa Bay area and throughout Florida. The Lightning have had some great players over the years, including Martin St. Louis, Vincent Lecavalier, and Steven Stamkos. The team plays their home games at Amalie Arena, which is located in downtown Tampa and has a seating capacity of over 19,000.",
+    "colors": [
+      "#00205b",
+      "#ffffff",
+      "#c0c0c0",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Toronto Maple Leafs",
+    "logo": "",
+    "blurb": "The Toronto Maple Leafs are a professional ice hockey team based in Toronto, Ontario, Canada. They were founded in 1917 and are one of the Original Six teams of the National Hockey League (NHL). The Maple Leafs have won the Stanley Cup championship 13 times, which is the second most in NHL history. They have a passionate fan base and are one of the most popular teams in the league. The team has had many great players over the years, including Auston Matthews, Doug Gilmour, Darryl Sittler, and Mats Sundin. The Maple Leafs play their home games at Scotiabank Arena, which is located in the heart of downtown Toronto.",
+    "colors": [
+      "#003876",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Vancouver Canucks",
+    "logo": "",
+    "blurb": "The Vancouver Canucks have been a part of the NHL since 1970 and have never won a Stanley Cup championship. Despite this, they have a loyal following in their home city of Vancouver and throughout British Columbia. The team has had some great players over the years, including the Sedin twins, Henrik and Daniel, and Pavel Bure. The Canucks play their home games at Rogers Arena, which has one of the most unique designs in the NHL.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#041c2c",
+      "#99999a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Vegas Golden Knights",
+    "logo": "",
+    "blurb": "The Vegas Golden Knights are a professional ice hockey team based in Las Vegas, Nevada. They were founded in 2017 and began playing in the NHL during the 2017-2018 season. In their inaugural season, the Golden Knights made it all the way to the Stanley Cup Finals, ultimately losing to the Washington Capitals. The team has quickly gained a loyal following in Las Vegas and has become one of the most successful expansion teams in NHL history. Key players on the team include Marc-Andre Fleury, Max Pacioretty, and Mark Stone. The Golden Knights play their home games at T-Mobile Arena, which opened in 2016 and has quickly become one of the premier venues in the NHL.",
+    "colors": [
+      "#b4975a",
+      "#333f42",
+      "#c8102e",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Washington Capitals",
+    "logo": "",
+    "blurb": "The Washington Capitals are a professional ice hockey team based in Washington, D.C. They were founded in 1974 and have been a part of the NHL since then. The Capitals have won one Stanley Cup championship in 2018. The team has a large and passionate fan base in the Washington, D.C. area and throughout the United States. The Capitals have had many great players over the years, including Alex Ovechkin, Nicklas Backstrom, and Braden Holtby. The team plays their home games at Capital One Arena, which is located in the heart of downtown Washington, D.C.",
+    "colors": [
+      "#041e42",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Winnipeg Jets",
+    "logo": "",
+    "blurb": "The Winnipeg Jets have been a part of the NHL since 1979 and were originally based in Atlanta. The team was relocated to Winnipeg in 2011 and has since gained a strong following in the city and throughout Manitoba. The Jets have made the playoffs several times since their move to Winnipeg, but have yet to win a Stanley Cup championship. The team has had some notable players over the years, including Dale Hawerchuk, Teemu Selanne, and Dustin Byfuglien. The Jets play their home games at Bell MTS Place, which has a seating capacity of over 15,000 fans.",
+    "colors": [
+      "#041e42",
+      "#002e62",
+      "#a2aaad",
+      "#ffffff"
+    ]
+  }
+  ]
+},
+{
+    "league": "National Football League",
+    "abbreviation": "NFL",
+    "sport": "football",
+    "logo": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg",
+      "league-colors": [
+      "#123265", "#c32c20"
+    ],
+    "teams": [
+    {
+    "name": "Arizona Cardinals",
+    "logo": "",
+    "blurb": "The Arizona Cardinals are a professional American football team based in Glendale, Arizona. They compete in the National Football League (NFL) as a member club of the National Football Conference (NFC) West division. The Cardinals were founded in 1898 and are the oldest continuously run professional football team in the United States. The team has won two NFL championships, in 1925 and 1947, prior to the AFL-NFL merger. Despite not winning a Super Bowl championship, the Cardinals have made two appearances in the big game, in 2008 and 2016. The team has a passionate fanbase and plays their home games at State Farm Stadium.",
+    "colors": [
+      "#97233F",
+      "#000000",
+      "#FFB612",
+      "#A5ACAF"
+    ]
+  },
+  {
+    "name": "Atlanta Falcons",
+    "logo": "",
+    "blurb": "The Atlanta Falcons are a professional American football team based in Atlanta, Georgia. They compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Falcons have made two Super Bowl appearances in their history, but have yet to win a championship. The team has a passionate fanbase and plays their home games at Mercedes-Benz Stadium, which has a unique retractable roof and a striking angular design.",
+    "colors": [
+      "#a71930",
+      "#000000",
+      "#a5acaf",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Baltimore Ravens",
+    "logo": "",
+    "blurb": "The Baltimore Ravens are a professional American football team based in Baltimore, Maryland. The team was established in 1996, when Art Modell, the owner of the Cleveland Browns, announced his intention to relocate the team to Baltimore. The Ravens have had a lot of success since their inception, winning two Super Bowl championships in 2000 and 2012. The team is known for its strong defense, which has been a hallmark of the franchise since its early days.",
+    "colors": [
+      "#241773",
+      "#9e7c0c",
+      "#000000",
+      "#c60c30",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Buffalo Bills",
+    "logo": "",
+    "blurb": "The Buffalo Bills are a professional American football team based in Buffalo, New York. They compete in the National Football League (NFL) as a member club of the league's American Football Conference (AFC) East division. The Bills are the only team to win four consecutive conference championships and are the only NFL team to play in four consecutive Super Bowl games, all of which they lost. The team has a strong fan base known as the 'Bills Mafia' and play their home games at Highmark Stadium.",
+    "colors": [
+      "#00338d",
+      "#c60c30",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Carolina Panthers",
+    "logo": "",
+    "blurb": "The Carolina Panthers are a professional American football team based in Charlotte, North Carolina. They were established in 1995 and have since become a beloved team in the region. The Panthers have had some great players over the years, including Cam Newton, Steve Smith, and Julius Peppers. They have made two Super Bowl appearances, but have yet to win a championship. The team plays their home games at Bank of America Stadium, which has a seating capacity of over 75,000.",
+    "colors": [
+      "#0085ca",
+      "#101820",
+      "#bfc0bf",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Chicago Bears",
+    "logo": "",
+    "blurb": "The Chicago Bears are a professional American football team based in Chicago, Illinois. They were founded in 1920 and are one of the oldest franchises in the National Football League (NFL). The Bears have won nine NFL championships, including one Super Bowl, and have had some of the greatest players in NFL history on their roster, such as Walter Payton, Dick Butkus, and Mike Singletary. The team plays their home games at Soldier Field, which has been their home stadium since 1971.",
+    "colors": [
+      "#0B162A",
+      "#C83803",
+      "#DD4814",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Cincinnati Bengals",
+    "logo": "",
+    "blurb": "The Cincinnati Bengals are a professional American football team based in Cincinnati, Ohio. They were founded in 1966 and have been playing in the National Football League (NFL) since then. The Bengals have won two conference championships and nine division championships, but have yet to win a Super Bowl championship. Despite this, they have a loyal following in Cincinnati and throughout Ohio. The team has had some great players over the years, including Anthony Munoz, Ken Anderson, and Chad Johnson. The Bengals play their home games at Paul Brown Stadium, which opened in 2000 and has a seating capacity of over 65,000.",
+    "colors": [
+      "#fc4c02",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Cleveland Browns",
+    "logo": "",
+    "blurb": "The Cleveland Browns are a professional American football team based in Cleveland, Ohio. They were established in 1946 and are currently members of the North Division of the American Football Conference (AFC) in the National Football League (NFL). The team has a passionate and dedicated fan base known as the 'Dawg Pound'. The Browns have had some great players over the years, including Jim Brown, Otto Graham, and Bernie Kosar. Despite some struggles in recent years, the team has a bright future with a talented young roster and a new coaching staff. The Browns play their home games at FirstEnergy Stadium, which has a seating capacity of over 67,000.",
+    "colors": [
+      "#311d00",
+      "#ff3c00",
+      "#fdb81e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Dallas Cowboys",
+    "logo": "",
+    "blurb": "The Dallas Cowboys are a professional American football team based in the Dallas-Fort Worth metroplex. The team was founded in 1960 and has since become one of the most recognizable franchises in the National Football League (NFL). The Cowboys have won five Super Bowl championships and have a large and passionate fanbase across the United States. The team has had many great players over the years, including Troy Aikman, Emmitt Smith, and Roger Staubach. The Cowboys play their home games at AT&T Stadium, which has a seating capacity of over 100,000 and is one of the most impressive stadiums in the NFL.",
+    "colors": [
+      "#002244",
+      "#b0b7bc",
+      "#869397",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Denver Broncos",
+    "logo": "",
+    "blurb": "The Denver Broncos are a professional American football team based in Denver, Colorado. They were founded in 1960 and have won three Super Bowl championships (in 1997, 1998, and 2015). The team has a passionate fanbase and is known for its loud home games at Sports Authority Field at Mile High. Over the years, the Broncos have had many great players, including John Elway, Terrell Davis, Shannon Sharpe, and Von Miller.",
+    "colors": [
+      "#002244",
+      "#fb4f14",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Detroit Lions",
+    "logo": "",
+    "blurb": "The Detroit Lions are a professional American football team based in Detroit, Michigan. They are members of the National Football League (NFL) and compete in the league's National Football Conference (NFC) North division. The Lions have won four NFL championships, the last one being in 1957. Despite not having much recent success, the Lions have a loyal fan base and play their home games at Ford Field in downtown Detroit.",
+    "colors": [
+      "#0076b6",
+      "#b0b7bc",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Green Bay Packers",
+    "logo": "",
+    "blurb": "The Green Bay Packers are a professional American football team based in Green Bay, Wisconsin. They were founded in 1919 and are the third-oldest franchise in the NFL. The Packers have won 13 league championships, including four Super Bowls. They have a dedicated fan base known as the 'Cheeseheads' and play their home games at Lambeau Field, which is one of the most iconic stadiums in the NFL.",
+    "colors": [
+      "#203731",
+      "#ffb612"
+    ]
+  },
+  {
+    "name": "Houston Texans",
+    "logo": "",
+    "blurb": "The Houston Texans are a professional American football team based in Houston, Texas. They were founded in 2002 and have been a member of the National Football League (NFL) since then. The team has won the AFC South division title 6 times since their inception, but has yet to win a Super Bowl championship. Despite this, they have a dedicated fan base in Houston and throughout Texas. The Texans have had some great players over the years, including J.J. Watt, DeAndre Hopkins, and Deshaun Watson. The team plays their home games at NRG Stadium, which has a retractable roof and a seating capacity of over 71,000.",
+    "colors": [
+      "#03202f",
+      "#a71930",
+      "#c9243f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Indianapolis Colts",
+    "logo": "",
+    "blurb": "The Indianapolis Colts are a professional American football team based in Indianapolis, Indiana. The team was founded in 1953 and has won two Super Bowl championships in 1970 and 2006. The Colts have a dedicated fan base and have had some of the greatest players in NFL history, including Peyton Manning, Johnny Unitas, and Marvin Harrison. The team plays their home games at Lucas Oil Stadium, which has a retractable roof and can seat up to 70,000 fans.",
+    "colors": [
+      "#003a70",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Jacksonville Jaguars",
+    "logo": "",
+    "blurb": "The Jacksonville Jaguars are a professional American football team based in Jacksonville, Florida. The team was founded in 1995 and has since become a popular sports franchise in the state of Florida. Despite not having won a Super Bowl championship, the Jaguars have had some great players over the years, including Fred Taylor, Tony Boselli, and Mark Brunell. The team plays their home games at TIAA Bank Field, which has a seating capacity of over 67,000 fans.",
+    "colors": [
+      "#006778",
+      "#9F792C",
+      "#000000",
+      "#D7A22A",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Kansas City Chiefs",
+    "logo": "",
+    "blurb": "The Kansas City Chiefs are a professional American football team based in Kansas City, Missouri. The team was founded in 1960 as the Dallas Texans and moved to Kansas City in 1963. The Chiefs have won two Super Bowl championships, the first in 1970 and the second in 2020. The team has a passionate fan base known as the 'Chiefs Kingdom' and plays their home games at Arrowhead Stadium, which is one of the loudest and most intimidating stadiums in the NFL.",
+    "colors": [
+      "#e31837",
+      "#ffb81c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Las Vegas Raiders",
+    "logo": "",
+    "blurb": "The Las Vegas Raiders are a professional American football team based in Las Vegas, Nevada. They were founded in 1960 and originally played in Oakland, California before moving to Los Angeles in 1982 and then back to Oakland in 1995. In 2020, the team moved to Las Vegas and now plays their home games at Allegiant Stadium. The Raiders have won three Super Bowl championships (XI, XV, XVIII) and have a passionate fanbase known as the 'Raider Nation'. Some of the team's most notable players include Ken Stabler, Marcus Allen, and Tim Brown.",
+    "colors": [
+      "#000000",
+      "#a5acaf",
+      "#c4c9cc",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles Chargers",
+    "logo": "",
+    "blurb": "The Los Angeles Chargers are a professional American football team based in Los Angeles, California. They were founded in 1960 as a charter member of the American Football League (AFL) and joined the National Football League (NFL) in 1970 as part of the AFL-NFL merger. The Chargers have one AFL championship to their name, but have yet to win a Super Bowl championship. The team has a dedicated fanbase in Los Angeles and throughout Southern California, and plays their home games at SoFi Stadium in Inglewood.",
+    "colors": [
+      "#0072c6",
+      "#ffb81c",
+      "#002244",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles Rams",
+    "logo": "",
+    "blurb": "The Los Angeles Rams are a professional American football team based in Los Angeles, California. The team was founded in 1936 and has won three NFL championships and one Super Bowl championship. The Rams have had many great players over the years, including Eric Dickerson, Marshall Faulk, and Kurt Warner. The team plays their home games at SoFi Stadium, which opened in 2020 and is one of the most technologically advanced stadiums in the world.",
+    "colors": [
+      "#002244",
+      "#4b2e84",
+      "#ffc20e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Miami Dolphins",
+    "logo": "",
+    "blurb": "The Miami Dolphins are a professional American football team based in Miami, Florida. The team was founded in 1965 and has won two Super Bowl championships in 1972 and 1973. The Dolphins have a large and passionate fan base, known as the 'Fins Up' community. The team has had some great players over the years, including Dan Marino, Larry Csonka, and Bob Griese. The Dolphins play their home games at Hard Rock Stadium, which has a seating capacity of over 65,000.",
+    "colors": [
+      "#008e97",
+      "#f58220",
+      "#005778",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Minnesota Vikings",
+    "logo": "",
+    "blurb": "The Minnesota Vikings are a professional American football team based in Minneapolis. They were founded in 1960 and have been a part of the National Football League (NFL) ever since. The Vikings have won one NFL championship in 1969, prior to the AFL-NFL merger, but have yet to win a Super Bowl championship. Despite this, they have a loyal following in Minnesota and throughout the United States. The team has had some great players over the years, including Fran Tarkenton, Randy Moss, and Adrian Peterson. The Vikings play their home games at U.S. Bank Stadium, which has a unique design with a transparent roof and walls.",
+    "colors": [
+      "#4f2683",
+      "#ffc62f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New England Patriots",
+    "logo": "",
+    "blurb": "The New England Patriots are a professional American football team based in the Greater Boston area. The team was founded in 1959 and has since become one of the most successful franchises in the National Football League (NFL). The Patriots have won six Super Bowl championships, tied for the most in NFL history, and have appeared in a total of 11 Super Bowls. The team is known for its strong offense and innovative coaching, led by head coach Bill Belichick and quarterback Tom Brady, who played for the team from 2000 to 2019. The Patriots play their home games at Gillette Stadium in Foxborough, Massachusetts.",
+    "colors": [
+      "#0c2340",
+      "#c8102e",
+      "#a2aaad",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New Orleans Saints",
+    "logo": "",
+    "blurb": "The New Orleans Saints are a professional American football team based in New Orleans, Louisiana. They were founded in 1967 and have been a member of the National Football League (NFL) since 1970. The Saints have won one Super Bowl championship, in 2009, and have had some great players over the years, including Drew Brees, Archie Manning, and Rickey Jackson. The team plays their home games at the Mercedes-Benz Superdome, which has been their home since 1975.",
+    "colors": [
+      "#D3BC8D",
+      "#101820",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "New York Giants",
+    "logo": "",
+    "blurb": "The New York Giants are a professional American football team based in the New York metropolitan area. The team was founded in 1925 and has won four NFL championships, including Super Bowls XXI, XXV, XLII, and XLVI. The Giants have a loyal fan base and are one of the most popular teams in the NFL. The team has had many legendary players over the years, including Lawrence Taylor, Eli Manning, and Michael Strahan. The Giants play their home games at MetLife Stadium, which they share with the New York Jets.",
+    "colors": [
+      "#0b2265",
+      "#a2aaad",
+      "#a71930",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York Jets",
+    "logo": "",
+    "blurb": "The New York Jets are a professional American football team based in the New York metropolitan area. The team was founded in 1959 and has won one Super Bowl championship in 1968. The Jets have a loyal following in the New York area and have had some great players over the years, including Joe Namath, Curtis Martin, and Darrelle Revis. The Jets play their home games at MetLife Stadium in East Rutherford, New Jersey.",
+    "colors": [
+      "#203731",
+      "#ffffff",
+      "#cc0000",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Pittsburgh Steelers",
+    "logo": "",
+    "blurb": "The Pittsburgh Steelers are a professional American football team based in Pittsburgh, Pennsylvania. They were founded in 1933 and are one of the oldest franchises in the National Football League (NFL). The team has a storied history, having won six Super Bowl championships, the most recent in 2008. The Steelers are known for their tough, physical style of play and have had some of the greatest players in NFL history on their roster, including Terry Bradshaw, Franco Harris, and Mean Joe Greene. The team plays their home games at Heinz Field, which has a seating capacity of over 68,000.",
+    "colors": [
+      "#101820",
+      "#FFB612",
+      "#C60C30",
+      "#A5ACAF",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "San Francisco 49ers",
+    "logo": "",
+    "blurb": "The San Francisco 49ers are a professional American football team based in San Francisco, California. The team was founded in 1946 and has won five Super Bowl championships. The 49ers have a passionate fan base and are known for their iconic red and gold uniforms. The team has had some legendary players over the years, including Joe Montana, Jerry Rice, and Steve Young. The 49ers play their home games at Levi's Stadium in Santa Clara, California.",
+    "colors": [
+      "#aa0000",
+      "#b3995d",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Seattle Seahawks",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Seattle_Seahawks_logo.svg/1200px-Seattle_Seahawks_logo.svg.png",
+    "blurb": "The Seattle Seahawks are a professional American football team based in Seattle, Washington. They compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) West division. The Seahawks have won one Super Bowl championship in 2013 and have been to three Super Bowls in total. The team has a passionate fan base known as the 12th Man, and they play their home games at CenturyLink Field.",
+    "colors": [
+      "#002244",
+      "#69be28",
+      "#a5acaf"
+    ]
+  },
+  {
+    "name": "Tampa Bay Buccaneers",
+    "logo": "",
+    "blurb": "The Tampa Bay Buccaneers are a professional American football team based in Tampa, Florida. They compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) South division. The Buccaneers have won two Super Bowl championships in their history, in 2002 and 2020. The team has had several great players over the years, including Warren Sapp, Derrick Brooks, and Ronde Barber. The Buccaneers play their home games at Raymond James Stadium, which has a seating capacity of over 65,000.",
+    "colors": [
+      "#d50a0a",
+      "#34302b",
+      "#ff7900",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Tennessee Titans",
+    "logo": "",
+    "blurb": "The Tennessee Titans are a professional American football team based in Nashville, Tennessee. They were founded in 1960 as the Houston Oilers and moved to Tennessee in 1997. The Titans have made one Super Bowl appearance in their history, losing to the St. Louis Rams in Super Bowl XXXIV. The team has had some great players over the years, including Steve McNair, Eddie George, and Warren Moon. The Titans play their home games at Nissan Stadium, which has a seating capacity of over 69,000.",
+    "colors": [
+      "#0c2340",
+      "#4b92db",
+      "#c8102e",
+      "#a5acaf",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Washington Commanders",
+    "logo": "",
+    "blurb": "The Washington Commanders are a professional American football team based in Washington D.C. The team was founded in 1932 and is one of the oldest franchises in the National Football League (NFL). The team has won three Super Bowl championships, with the most recent coming in 1991. The Commanders have a passionate fan base and play their home games at FedExField in Landover, Maryland.",
+    "colors": [
+      "#773141",
+      "#ffb612",
+      "#ffffff"
+    ]
+  }
+    ]
+},
+{
+    "league": "National Basketball Association",
+    "abbreviation": "NBA",
+    "sport": "basketball",
+    "logo": "https://i0.wp.com/sportslogosvg.com/wp-content/uploads/2020/09/nba.png",
+          "league-colors": [
+      "#274483", "#b83335"
+    ],
+    "teams": [
+        {
+    "name": "Atlanta Hawks",
+    "logo": "",
+    "blurb": "The Atlanta Hawks are a professional basketball team that plays in the Eastern Conference of the NBA. The team was founded in 1946 and has a loyal fan base in the city of Atlanta. The Hawks have had some great players over the years, including Dominique Wilkins, Bob Pettit, and Pete Maravich. Despite not winning an NBA championship since 1958, the Hawks have made several playoff appearances in recent years and have a promising young roster. The team plays their home games at State Farm Arena, which underwent a major renovation in 2018.",
+    "colors": [
+      "#e13a3e",
+      "#c1d32f",
+      "#26282a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Boston Celtics",
+    "logo": "",
+    "blurb": "The Boston Celtics are one of the most storied franchises in the NBA, having won a record 17 championships. Founded in 1946, the team has a long and proud history, with legends like Bill Russell, Larry Bird, and Paul Pierce having donned the green and white. The Celtics play their home games at TD Garden, which is located in the heart of Boston and is known for its passionate fans and electric atmosphere. The team is currently led by star players Jayson Tatum and Jaylen Brown, and is coached by Brad Stevens.",
+    "colors": [
+      "#008348",
+      "#bb9753",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Brooklyn Nets",
+    "logo": "",
+    "blurb": "The Brooklyn Nets are a professional basketball team in the National Basketball Association (NBA). They were founded in 1967 as the New Jersey Americans and have gone through several name and location changes before settling in Brooklyn, New York in 2012. The team has had some notable players over the years, including Julius Erving, Jason Kidd, and current star Kevin Durant. The Nets play their home games at Barclays Center, which has become a popular destination for both basketball and music fans in the city. Despite experiencing some ups and downs in recent years, the Nets have a passionate fan base and are considered one of the top teams in the NBA's Eastern Conference.",
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#c6cfd4"
+    ]
+  },
+  {
+    "name": "Charlotte Hornets",
+    "logo": "",
+    "blurb": "The Charlotte Hornets are a professional basketball team that plays in the Southeast Division of the Eastern Conference in the NBA. The team was established in 1988 and has had some great players over the years, including Larry Johnson, Alonzo Mourning, and Kemba Walker. The Hornets play their home games at the Spectrum Center in downtown Charlotte, North Carolina. Despite not having won a championship, the team has a dedicated fan base and is known for their distinctive teal and purple color scheme.",
+    "colors": [
+      "#1D1160",
+      "#00788C",
+      "#A1A1A4",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Chicago Bulls",
+    "logo": "",
+    "blurb": "The Chicago Bulls are a professional basketball team that was founded in 1966. The team has won six NBA championships, all of which were won during the Michael Jordan era in the 1990s. The Bulls have a large and passionate fan base in Chicago and around the world. The team has had some of the greatest players in NBA history, including Michael Jordan, Scottie Pippen, and Derrick Rose. The Bulls play their home games at the United Center, which is located in the Near West Side neighborhood of Chicago.",
+    "colors": [
+      "#ce1141",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Cleveland Cavaliers",
+    "logo": "",
+    "blurb": "The Cleveland Cavaliers are a professional basketball team based in Cleveland, Ohio. They were founded in 1970 and have won one NBA championship in 2016, led by LeBron James. The team has a dedicated fan base and plays their home games at Rocket Mortgage FieldHouse. Some of the notable players who have played for the Cavaliers over the years include Mark Price, Brad Daugherty, Kyrie Irving, and Kevin Love. The team's colors are wine, gold, and navy blue.",
+    "colors": [
+      "#6F263D",
+      "#FDBB30",
+      "#041E42"
+    ]
+  },
+  {
+    "name": "Dallas Mavericks",
+    "logo": "",
+    "blurb": "The Dallas Mavericks are a professional basketball team based in Dallas, Texas. They were founded in 1980 and have won one NBA championship in 2011. The team has a passionate fan base in Dallas and throughout Texas. The Mavericks have had some great players over the years, including Dirk Nowitzki, Steve Nash, and Jason Kidd. The team plays their home games at the American Airlines Center, which is one of the most modern and technologically advanced arenas in the NBA.",
+    "colors": [
+      "#00538c",
+      "#002b5e",
+      "#b8c4ca",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Denver Nuggets",
+    "logo": "",
+    "blurb": "The Denver Nuggets are a professional basketball team based in Denver, Colorado. They were founded in 1967 as part of the American Basketball Association (ABA) and joined the National Basketball Association (NBA) in 1976. The Nuggets have enjoyed some success over the years, including 10 division titles and one conference championship. They play their home games at the Pepsi Center, which is one of the loudest and most energetic arenas in the NBA. The team has had some great players over the years, including Alex English, David Thompson, and Carmelo Anthony.",
+    "colors": [
+      "#0E2240",
+      "#FEC524",
+      "#8B2131",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Detroit Pistons",
+    "logo": "",
+    "blurb": "The Detroit Pistons are a professional basketball team based in Detroit, Michigan. They were founded in 1941 and joined the NBA in 1948. The team has won three NBA championships in their history, in 1989, 1990, and 2004. They have had some great players over the years, including Isiah Thomas, Ben Wallace, and Chauncey Billups. The Pistons play their home games at Little Caesars Arena, which they share with the Detroit Red Wings of the NHL.",
+    "colors": [
+      "#006bb6",
+      "#ed174c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Golden State Warriors",
+    "logo": "",
+    "blurb": "The Golden State Warriors are a professional basketball team based in San Francisco Bay Area, California. The team was founded in 1946 and has won six NBA championships, most recently in 2018. The Warriors have a strong fan base and are known for their high-scoring offense and fast-paced style of play. Some of the team's greatest players include Stephen Curry, Klay Thompson, and Kevin Durant. The Warriors play their home games at the Chase Center, which opened in 2019 and has quickly become one of the premier arenas in the NBA.",
+    "colors": [
+      "#006bb6",
+      "#fdb927",
+      "#26282a"
+    ]
+  },
+  {
+    "name": "Houston Rockets",
+    "logo": "",
+    "blurb": "The Houston Rockets are a professional basketball team based in Houston, Texas. They were founded in 1967 and have won two NBA championships in their history. The team has had some legendary players over the years, including Hakeem Olajuwon, Clyde Drexler, and Yao Ming. Currently, the team is led by superstar guard James Harden. The Rockets play their home games at the Toyota Center, which has a seating capacity of over 18,000.",
+    "colors": [
+      "#ce1141",
+      "#000000",
+      "#ffffff",
+      "#c4ced3"
+    ]
+  },
+  {
+    "name": "Indiana Pacers",
+    "logo": "",
+    "blurb": "The Indiana Pacers are a professional basketball team based in Indianapolis, Indiana. They were founded in 1967 as a member of the American Basketball Association (ABA) and joined the National Basketball Association (NBA) in 1976. The Pacers have had some great players over the years, including Reggie Miller, Jermaine O'Neal, and Paul George. The team has won three conference championships, but has yet to win an NBA championship. The Pacers play their home games at Bankers Life Fieldhouse, which is located in downtown Indianapolis.",
+    "colors": [
+      "#002d62",
+      "#fdbb30",
+      "#b0b1b3",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "LA Clippers",
+    "logo": "",
+    "blurb": "The LA Clippers are a professional basketball team based in Los Angeles, California. The team was founded in 1970 and has had a loyal following throughout Southern California. The Clippers have had some great players over the years, including Blake Griffin, Chris Paul, and Kawhi Leonard. Despite some ups and downs, the Clippers have become a perennial playoff contender in recent years. The team plays their home games at the Staples Center, which they share with their cross-town rivals, the Los Angeles Lakers.",
+    "colors": [
+      "#ed174b",
+      "#006bb6",
+      "#1d428a",
+      "#b1b3b3"
+    ]
+  },
+  {
+    "name": "Los Angeles Lakers",
+    "logo": "",
+    "blurb": "The Los Angeles Lakers are a professional basketball team based in Los Angeles, California. They were founded in 1947 and have won 17 NBA championships, the second-most in NBA history. The Lakers have had some of the greatest players in basketball history, including Kobe Bryant, Magic Johnson, Shaquille O'Neal, and Kareem Abdul-Jabbar. The team plays their home games at the Staples Center, which they share with the Los Angeles Clippers and the Los Angeles Kings.",
+    "colors": [
+      "#552583",
+      "#fdb927",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Memphis Grizzlies",
+    "logo": "",
+    "blurb": "The Memphis Grizzlies are a professional basketball team that plays in the Western Conference of the NBA. The team was founded in 1995 and has since established a loyal following in Memphis, Tennessee. Despite not having won an NBA championship, the Grizzlies have made several playoff appearances and have had some great players over the years, including Marc Gasol, Zach Randolph, and Mike Conley. The team plays their home games at the FedExForum, which is known for its lively atmosphere and enthusiastic fans.",
+    "colors": [
+      "#001F70",
+      "#7399C6",
+      "#FDB927",
+      "#BAC3C9"
+    ]
+  },
+  {
+    "name": "Miami Heat",
+    "logo": "",
+    "blurb": "The Miami Heat are a professional basketball team based in Miami, Florida. They were founded in 1988 and have won three NBA championships in their history. The team has had some legendary players over the years, including Dwyane Wade, LeBron James, and Shaquille O'Neal. The Heat play their home games at American Airlines Arena, which is located in downtown Miami and has a seating capacity of over 19,000 fans. The team is known for their aggressive defense and fast-paced offense, which has made them a perennial contender in the Eastern Conference.",
+    "colors": [
+      "#98002e",
+      "#f9a01b",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Milwaukee Bucks",
+    "logo": "",
+    "blurb": "The Milwaukee Bucks are a professional basketball team based in Milwaukee, Wisconsin. They were founded in 1968 and have won one NBA championship in 1971. The team has had several great players over the years, including Kareem Abdul-Jabbar, Oscar Robertson, and Giannis Antetokounmpo, who won the NBA MVP award in 2019 and 2020. The Bucks play their home games at Fiserv Forum, which opened in 2018 and has quickly become one of the premier venues in the NBA.",
+    "colors": [
+      "#00471B",
+      "#EEE1C6",
+      "#0077C0",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Minnesota Timberwolves",
+    "logo": "",
+    "blurb": "The Minnesota Timberwolves are a professional basketball team based in Minneapolis, Minnesota. They were founded in 1989 and have yet to win an NBA championship. The team has had some notable players over the years, such as Kevin Garnett, Karl-Anthony Towns, and Andrew Wiggins. Despite their lack of success in the playoffs, the Timberwolves have a dedicated fanbase and play their home games at the Target Center.",
+    "colors": [
+      "#0C2340",
+      "#236192",
+      "#9EA2A2",
+      "#7AC143"
+    ]
+  },
+  {
+    "name": "New Orleans Pelicans",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/New_Orleans_Pelicans_logo.svg",
+    "blurb": "The New Orleans Pelicans are a professional basketball team based in New Orleans, Louisiana. They were established in 2002 as the New Orleans Hornets and changed their name to the Pelicans in 2013. The team has had some great players over the years, including Chris Paul, Anthony Davis, and Zion Williamson. The Pelicans play their home games at the Smoothie King Center, which has a seating capacity of over 18,000.",
+    "colors": [
+      "#0c2340",
+      "#c8102e",
+      "#85714d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York Knicks",
+    "logo": "",
+    "blurb": "The New York Knicks are a professional basketball team based in New York City. They were founded in 1946 and are one of the oldest teams in the NBA. The Knicks have a storied history and have won two NBA championships, in 1970 and 1973. They have a large and passionate fan base in New York and around the world. Over the years, the Knicks have had many great players, including Willis Reed, Walt Frazier, Patrick Ewing, and Carmelo Anthony. The team plays their home games at Madison Square Garden, one of the most iconic arenas in sports.",
+    "colors": [
+      "#006bb6",
+      "#f58426",
+      "#bfc1c3"
+    ]
+  },
+  {
+    "name": "Oklahoma City Thunder",
+    "logo": "",
+    "blurb": "The Oklahoma City Thunder are a professional basketball team that plays in the Western Conference of the NBA. They were founded in 1967 as the Seattle SuperSonics and moved to Oklahoma City in 2008. The team has had some great players over the years, including Kevin Durant, Russell Westbrook, and James Harden. Despite not winning an NBA championship since their move to Oklahoma City, the team has a dedicated fan base and is known for their high-energy playing style. The Thunder play their home games at Chesapeake Energy Arena, which is known for its loud and passionate fans.",
+    "colors": [
+      "#007ac1",
+      "#ef3b24",
+      "#fdbb30",
+      "#007ac1",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Orlando Magic",
+    "logo": "",
+    "blurb": "The Orlando Magic are a professional basketball team based in Orlando, Florida. They were founded in 1989 and have had some success in their relatively short history, including making it to the NBA Finals in 1995 and 2009. The team has had some great players over the years, including Shaquille O'Neal, Penny Hardaway, Tracy McGrady, and Dwight Howard. The Magic play their home games at Amway Center, which is known for its state-of-the-art technology and fan experience.",
+    "colors": [
+      "#0077c0",
+      "#c4ced4",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Philadelphia 76ers",
+    "logo": "",
+    "blurb": "The Philadelphia 76ers are a professional basketball team that compete in the Eastern Conference of the National Basketball Association (NBA). The team was founded in 1946 and has won three NBA championships in its history. The 76ers have a storied past with many great players, including Wilt Chamberlain, Julius Erving, Allen Iverson, and Charles Barkley. The team has a dedicated fan base in Philadelphia and is known for its passionate supporters. The 76ers play their home games at the Wells Fargo Center, which is located in South Philadelphia.",
+    "colors": [
+      "#006bb6",
+      "#ed174c",
+      "#002b5c",
+      "#c4ced4",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Phoenix Suns",
+    "logo": "",
+    "blurb": "The Phoenix Suns are a professional basketball team based in Phoenix, Arizona. They were founded in 1968 and have had a successful history, reaching the NBA Finals twice but never winning a championship. The team has had some great players over the years, including Charles Barkley, Steve Nash, and Devin Booker. The Suns play their home games at the Footprint Center, which has a seating capacity of over 18,000 fans.",
+    "colors": [
+      "#1d1160",
+      "#e56020",
+      "#63727a",
+      "#f9a01b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Portland Trail Blazers",
+    "logo": "",
+    "blurb": "The Portland Trail Blazers are a professional basketball team based in Portland, Oregon. They were founded in 1970 and have been a part of the NBA ever since. The team has won one NBA championship in 1977 and has had a number of successful seasons over the years. The Blazers have had some great players over the years, including Bill Walton, Clyde Drexler, and Damian Lillard. The team plays their home games at the Moda Center, which has a seating capacity of over 19,000.",
+    "colors": [
+      "#E03A3E",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Sacramento Kings",
+    "logo": "",
+    "blurb": "The Sacramento Kings are a professional basketball team based in Sacramento, California. The team was founded in 1945 and has been a part of the NBA since 1949. The Kings have never won an NBA championship, but they have a dedicated fanbase in Sacramento and throughout Northern California. The team has had some great players over the years, including Chris Webber, Mitch Richmond, and Oscar Robertson. The Kings play their home games at the Golden 1 Center, which is known for its cutting-edge technology and sustainability features.",
+    "colors": [
+      "#5a2b81",
+      "#63727a",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "San Antonio Spurs",
+    "logo": "",
+    "blurb": "The San Antonio Spurs are a professional basketball team based in San Antonio, Texas. They were founded in 1967 and joined the NBA in 1976. The Spurs have won five NBA championships, all under the leadership of coach Gregg Popovich and with the help of star players such as Tim Duncan, Tony Parker, and Manu Ginobili. The team has a strong fan base in San Antonio and throughout Texas, and is known for their disciplined and team-oriented style of play. The Spurs play their home games at the AT&T Center, which has a seating capacity of over 18,000.",
+    "colors": [
+      "#000000",
+      "#c4ced3",
+      "#bac3c9",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Toronto Raptors",
+    "logo": "",
+    "blurb": "The Toronto Raptors are a professional basketball team that play in the NBA. They were founded in 1995 and have since become one of the most successful teams in the league. The Raptors have won one NBA championship in 2019, and have made the playoffs in all but five of their seasons. The team has had some great players over the years, including Vince Carter, Chris Bosh, and Kyle Lowry. The Raptors play their home games at Scotiabank Arena in downtown Toronto.",
+    "colors": [
+      "#ce1141",
+      "#000000",
+      "#a1a1a4",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Utah Jazz",
+    "logo": "",
+    "blurb": "The Utah Jazz are a professional basketball team based in Salt Lake City, Utah. They were founded in 1974 as the New Orleans Jazz before relocating to Utah in 1979. The team has had a successful history, making it to the NBA Finals twice in the 1990s but falling short both times. The Jazz have had some of the best players in NBA history, including John Stockton, Karl Malone, and Donovan Mitchell. They play their home games at Vivint Arena, which has a seating capacity of over 18,000 and is known for its loud and passionate fans.",
+    "colors": [
+      "#002B5C",
+      "#00471B",
+      "#F9A01B",
+      "#C4CED4",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Washington Wizards",
+    "logo": "",
+    "blurb": "The Washington Wizards are a professional basketball team based in Washington, D.C. The team was founded in 1961 as the Chicago Packers and has since undergone several name changes before settling on the Wizards in 1997. The Wizards have had some successful seasons in their history, including a trip to the NBA Finals in 1979, but have not won a championship. The team has had some great players over the years, including Wes Unseld, Elvin Hayes, and John Wall. The Wizards play their home games at Capital One Arena, which is located in the heart of downtown Washington, D.C.",
+    "colors": [
+      "#002244",
+      "#e31837",
+      "#c4ced4",
+      "#ffffff"
+    ]
+  }
+    ]
+},
+{
+    "league": "Major League Baseball",
+    "abbreviation": "MLB",
+    "sport": "baseball",
+    "logo": "https://www.mlbstatic.com/team-logos/league-on-dark/1.svg",
+    "league-colors": [
+      "#0b1d40", "#af2841"
+    ],
+    "teams": [
+        {
+    "name": "Arizona Diamondbacks",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Arizona_Diamondbacks_logo.svg",
+    "blurb": "The Arizona Diamondbacks are a professional baseball team based in Phoenix, Arizona. They were founded in 1998 as an expansion team and have won one World Series championship in 2001. The team plays their home games at Chase Field, which has a retractable roof and can seat over 48,000 fans. Some of the notable players who have played for the Diamondbacks include Randy Johnson, Curt Schilling, Luis Gonzalez, and Paul Goldschmidt.",
+    "colors": [
+      "#a71930",
+      "#000000",
+      "#e3d4ad",
+      "#c4ced4"
+    ]
+  },
+  {
+    "name": "Atlanta Braves",
+    "logo": "",
+    "blurb": "The Atlanta Braves are a professional baseball team that have been a part of Major League Baseball since 1871. They have won three World Series championships, in 1914, 1957, and 1995, and have won their division title a total of 19 times. The Braves have had some of the greatest players in baseball history, including Hank Aaron, Chipper Jones, and Greg Maddux. The team plays their home games at Truist Park, which is located in the Cumberland neighborhood of Atlanta, Georgia.",
+    "colors": [
+      "#002855",
+      "#ba0c2f",
+      "#b6922e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Baltimore Orioles",
+    "logo": "",
+    "blurb": "The Baltimore Orioles are a professional baseball team based in Baltimore, Maryland. They were founded in 1901 as the Milwaukee Brewers and have been known as the Orioles since 1954. The Orioles have won three World Series championships, in 1966, 1970, and 1983. They play their home games at Oriole Park at Camden Yards, which is widely regarded as one of the most beautiful ballparks in the country.",
+    "colors": [
+      "#df4601",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Boston Red Sox",
+    "logo": "",
+    "blurb": "The Boston Red Sox are a professional baseball team based in Boston, Massachusetts. They were founded in 1901 and are one of the oldest and most storied franchises in Major League Baseball. The team has won nine World Series championships, the most recent of which came in 2018. The Red Sox have a passionate fan base that extends far beyond the city of Boston, with fans all over New England and around the world. Some of the greatest players in baseball history have worn the Red Sox uniform, including Ted Williams, Carl Yastrzemski, David Ortiz, and Pedro Martinez. The team plays its home games at Fenway Park, which is the oldest ballpark in Major League Baseball and a beloved symbol of the city of Boston.",
+    "colors": [
+      "#bd3039",
+      "#0c2340",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Chicago White Sox",
+    "logo": "",
+    "blurb": "The Chicago White Sox have been a part of Major League Baseball since 1901 and have won three World Series championships. The team plays their home games at Guaranteed Rate Field, located on the south side of Chicago. The White Sox have had many great players over the years, including Frank Thomas, Paul Konerko, and Harold Baines. The team's colors are black, white, and silver.",
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#c0c0c0",
+      "#b2b2b2"
+    ]
+  },
+  {
+    "name": "Chicago Cubs",
+    "logo": "",
+    "blurb": "The Chicago Cubs have been a part of Major League Baseball (MLB) since 1876 and have won three World Series championships in their history. They are known for their loyal fanbase who have supported them through thick and thin. The team has had some great players over the years, including Ernie Banks, Ryne Sandberg, and Sammy Sosa. The Cubs play their home games at Wrigley Field, which is one of the oldest and most iconic ballparks in the MLB.",
+    "colors": [
+      "#0e3386",
+      "#cc3433",
+      "#0a2239",
+      "#fcb827",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Cincinnati Reds",
+    "logo": "",
+    "blurb": "The Cincinnati Reds are a professional baseball team based in Cincinnati, Ohio. The team was founded in 1881 and is one of the oldest franchises in Major League Baseball. The Reds have won five World Series championships, the most recent of which came in 1990. The team has had some great players over the years, including Johnny Bench, Joe Morgan, and Pete Rose. The Reds play their home games at Great American Ball Park, which offers stunning views of the Ohio River and the Cincinnati skyline.",
+    "colors": [
+      "#c6011f",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Cleveland Guardians",
+    "logo": "",
+    "blurb": "The Cleveland Guardians are a professional baseball team based in Cleveland, Ohio. They were founded in 1901 and have won two World Series championships, in 1920 and 1948. The team has a dedicated fan base and plays their home games at Progressive Field, which has a seating capacity of over 35,000. Some of the greatest players to ever wear a Cleveland Guardians uniform include Bob Feller, Lou Boudreau, and Jim Thome.",
+    "colors": [
+      "#0c2340",
+      "#e31937",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Colorado Rockies",
+    "logo": "",
+    "blurb": "The Colorado Rockies have been a part of Major League Baseball since 1993 and have never won a World Series championship. Despite this, they have a loyal following in their home city of Denver and throughout Colorado. The team has had some great players over the years, including Todd Helton, Larry Walker, and Nolan Arenado. The Rockies play their home games at Coors Field, which is known for its high altitude and hitter-friendly dimensions.",
+    "colors": [
+      "#33006f",
+      "#c4ced4",
+      "#333366",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Detroit Tigers",
+    "logo": "",
+    "blurb": "The Detroit Tigers are a professional baseball team based in Detroit, Michigan. They were founded in 1894 and have won four World Series championships in their history. The team has a rich tradition and has had many great players over the years, including Ty Cobb, Hank Greenberg, Al Kaline, and Miguel Cabrera. The Tigers play their home games at Comerica Park, which opened in 2000 and has become one of the most popular ballparks in the league.",
+    "colors": [
+      "#0C2340",
+      "#FA4616",
+      "#FCD116"
+    ]
+  },
+  {
+    "name": "Houston Astros",
+    "logo": "",
+    "blurb": "The Houston Astros are a Major League Baseball team that was established in 1962. They have won two World Series championships, in 2017 and 2019. The Astros have a strong fan base in Houston and throughout Texas. The team has had many great players over the years, including Craig Biggio, Jeff Bagwell, and Nolan Ryan. The Astros play their home games at Minute Maid Park, which has a retractable roof and can seat over 40,000 fans.",
+    "colors": [
+      "#002d62",
+      "#eb6e1f",
+      "#f4911e",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Kansas City Royals",
+    "logo": "",
+    "blurb": "The Kansas City Royals are a Major League Baseball team based in Kansas City, Missouri. They were founded in 1969 and have won two World Series championships in their history, in 1985 and 2015. The team has a strong fan base in the Kansas City area and throughout the Midwest. The Royals have had many great players over the years, including George Brett, Frank White, and Bret Saberhagen. The team plays their home games at Kauffman Stadium, which is known for its fountains and is one of the most iconic ballparks in the league.",
+    "colors": [
+      "#004687",
+      "#bd9b60",
+      "#7bb2dd",
+      "#c1c6c8",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles Angels",
+    "logo": "",
+    "blurb": "The Los Angeles Angels are a professional baseball team based in Anaheim, California. They were founded in 1961 and have won one World Series championship in 2002. The team has had some great players over the years, including Mike Trout, Nolan Ryan, and Rod Carew. The Angels play their home games at Angel Stadium of Anaheim, which has a seating capacity of over 45,000.",
+    "colors": [
+      "#ba0021",
+      "#003263",
+      "#c4ced4"
+    ]
+  },
+  {
+    "name": "Los Angeles Dodgers",
+    "logo": "",
+    "blurb": "The Los Angeles Dodgers are a professional baseball team based in Los Angeles, California. They were founded in 1883 in Brooklyn, New York and moved to Los Angeles in 1958. The Dodgers have won six World Series championships and 23 National League pennants. They are known for their iconic Dodger Stadium, which is the third-oldest ballpark in the MLB. The team has had many great players over the years, including Jackie Robinson, Sandy Koufax, and Clayton Kershaw.",
+    "colors": [
+      "#005a9c",
+      "#ffffff",
+      "#ef3e42"
+    ]
+  },
+  {
+    "name": "Miami Marlins",
+    "logo": "",
+    "blurb": "The Miami Marlins are a professional baseball team that was established in 1993. The team has won two World Series championships, in 1997 and 2003. The Marlins play their home games at Marlins Park, which has a retractable roof and can seat up to 36,742 fans. The team has had some great players over the years, including Giancarlo Stanton, Miguel Cabrera, and Hanley Ramirez.",
+    "colors": [
+      "#00a3e0",
+      "#f26531",
+      "#000000",
+      "#8ea9db",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Milwaukee Brewers",
+    "logo": "",
+    "blurb": "The Milwaukee Brewers are a Major League Baseball team based in Milwaukee, Wisconsin. The team was founded in 1969 as the Seattle Pilots, but moved to Milwaukee the following year. The Brewers have had some great players over the years, including Robin Yount, Paul Molitor, and Ryan Braun. The team has won one American League pennant (1982) and two National League Central division titles (2011 and 2018). The Brewers play their home games at Miller Park, which features a retractable roof and a unique fan-shaped seating arrangement.",
+    "colors": [
+      "#0a2351",
+      "#85714d",
+      "#ffb827",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Minnesota Twins",
+    "logo": "",
+    "blurb": "The Minnesota Twins are a Major League Baseball team that was founded in 1901 as the Washington Senators. The team moved to Minnesota in 1961 and has won three World Series championships (in 1924, 1987, and 1991). The Twins have had some great players over the years, including Harmon Killebrew, Kirby Puckett, and Rod Carew. The team plays its home games at Target Field, which opened in 2010 and has a seating capacity of over 38,000.",
+    "colors": [
+      "#002b5c",
+      "#d31145",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York Yankees",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Yankees_logo.svg/1200px-New_York_Yankees_logo.svg.png",
+    "blurb": "The New York Yankees are a professional baseball team based in the Bronx borough of New York City. They were founded in 1901 and have won 27 World Series championships, the most of any team in Major League Baseball. The Yankees have had some of the greatest players in baseball history, including Babe Ruth, Lou Gehrig, Joe DiMaggio, Mickey Mantle, and Derek Jeter. The team plays their home games at Yankee Stadium, which opened in 2009 and has a seating capacity of 47,309. The Yankees have a passionate fanbase that extends well beyond New York City.",
+    "colors": [
+      "#0c2340",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York Mets",
+    "logo": "",
+    "blurb": "The New York Mets are a professional baseball team based in New York City. They were founded in 1962 and have won two World Series championships in 1969 and 1986. The team has a passionate fan base and plays their home games at Citi Field in Queens. The Mets have had some great players over the years, including Tom Seaver, Mike Piazza, and David Wright. The team's colors are blue, orange, and white.",
+    "colors": [
+      "#002c77",
+      "#ff5910",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Oakland Athletics",
+    "logo": "",
+    "blurb": "The Oakland Athletics are a professional baseball team based in Oakland, California. They were founded in 1901 and have won nine World Series championships, the most recent of which came in 1989. The Athletics have a reputation for being a small-market team that consistently competes with larger-market teams due to their innovative use of analytics and player development. The team has had some great players over the years, including Rickey Henderson, Reggie Jackson, and Dennis Eckersley. The Athletics play their home games at RingCentral Coliseum, which has been their home since 1968.",
+    "colors": [
+      "#003831",
+      "#EFB21E",
+      "#A2AAAD"
+    ]
+  },
+  {
+    "name": "Philadelphia Phillies",
+    "logo": "",
+    "blurb": "The Philadelphia Phillies are a professional baseball team that has been a part of Major League Baseball since 1883. They have won two World Series championships, in 1980 and 2008, and have a passionate fan base in the city of Philadelphia and throughout the Delaware Valley. The team has had some legendary players over the years, including Mike Schmidt, Steve Carlton, and Robin Roberts. The Phillies play their home games at Citizens Bank Park, which opened in 2004 and has quickly become one of the most popular ballparks in the league.",
+    "colors": [
+      "#ba0c2f",
+      "#284898",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Pittsburgh Pirates",
+    "logo": "",
+    "blurb": "The Pittsburgh Pirates are a professional baseball team based in Pittsburgh, Pennsylvania. They were founded in 1881 and are one of the oldest franchises in Major League Baseball. The Pirates have won five World Series championships, with the most recent coming in 1979. The team has a rich history and has had many great players over the years, including Roberto Clemente, Willie Stargell, and Honus Wagner. The Pirates play their home games at PNC Park, which is located in downtown Pittsburgh and offers stunning views of the city skyline and the Allegheny River.",
+    "colors": [
+      "#fdb827",
+      "#27251f",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "San Diego Padres",
+    "logo": "",
+    "blurb": "The San Diego Padres have been a part of Major League Baseball since 1969. The team has made two World Series appearances but has yet to win a championship. The Padres have a passionate fan base in San Diego and throughout Southern California. The team has had some great players over the years, including Tony Gwynn, Dave Winfield, and Trevor Hoffman. The Padres play their home games at Petco Park, which is known for its beautiful views of downtown San Diego and the bay.",
+    "colors": [
+      "#002d62",
+      "#f4a32c",
+      "#7f411c",
+      "#a2aaad",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "San Francisco Giants",
+    "logo": "",
+    "blurb": "The San Francisco Giants are a Major League Baseball team based in San Francisco, California. The team was founded in 1883 and has won eight World Series championships, the most recent being in 2014. The Giants have a rich history and have had some of the greatest players in baseball history on their roster, including Willie Mays, Barry Bonds, and Juan Marichal. The team plays their home games at Oracle Park, which is located in the South Beach neighborhood of San Francisco.",
+    "colors": [
+      "#FD5A1E",
+      "#27251F",
+      "#FEC325"
+    ]
+  },
+  {
+    "name": "Seattle Mariners",
+    "logo": "",
+    "blurb": "The Seattle Mariners are a Major League Baseball team based in Seattle, Washington. They were founded in 1977 and have yet to win a World Series championship. Despite this, they have a dedicated fan base that supports them year after year. The Mariners have had some great players over the years, including Ken Griffey Jr., Ichiro Suzuki, and Edgar Martinez. The team plays their home games at T-Mobile Park, which has a retractable roof and can seat over 47,000 fans.",
+    "colors": [
+      "#0c2c56",
+      "#005c5c",
+      "#c4ced4",
+      "#8c8c8c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "St. Louis Cardinals",
+    "logo": "",
+    "blurb": "The St. Louis Cardinals are a professional baseball team based in St. Louis, Missouri. They were founded in 1882 and are one of the oldest and most successful franchises in Major League Baseball. The Cardinals have won 11 World Series championships, the most of any National League team and second-most overall. They have also won 19 National League pennants, third-most in the NL. The team has had many legendary players over the years, including Stan Musial, Bob Gibson, and Albert Pujols. The Cardinals play their home games at Busch Stadium, which opened in 2006 and has a seating capacity of over 45,000.",
+    "colors": [
+      "#c41e3a",
+      "#0c2340",
+      "#f2c800"
+    ]
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "logo": "",
+    "blurb": "The Tampa Bay Rays are a professional baseball team based in St. Petersburg, Florida. They were founded in 1998 and have since become one of the most successful teams in the American League. The Rays have won two American League pennants and one American League East division title. They are known for their innovative strategies and use of advanced analytics to make roster decisions. The team plays their home games at Tropicana Field, which is known for its unique dome-shaped roof.",
+    "colors": [
+      "#092C5C",
+      "#8FBCE6",
+      "#F5D130",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Texas Rangers",
+    "logo": "",
+    "blurb": "The Texas Rangers are a professional baseball team based in Arlington, Texas. They were founded in 1961 as the Washington Senators and moved to Texas in 1972. The Rangers have played in two World Series, in 2010 and 2011, but have yet to win a championship. They have a strong fanbase in Texas and are known for their powerful offense and exciting games. Some of the Rangers' most notable players include Ivan Rodriguez, Nolan Ryan, and Adrian Beltre. The team plays their home games at Globe Life Field, which opened in 2020.",
+    "colors": [
+      "#003278",
+      "#c0111f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Toronto Blue Jays",
+    "logo": "",
+    "blurb": "The Toronto Blue Jays are a professional baseball team based in Toronto, Ontario, Canada. They were founded in 1977 and have won two World Series championships in 1992 and 1993. The team plays in the American League East division and has a strong rivalry with the New York Yankees. The Blue Jays have had many great players over the years, including Roberto Alomar, Joe Carter, and Carlos Delgado. They play their home games at the Rogers Centre, which has a retractable roof and can seat up to 49,282 fans.",
+    "colors": [
+      "#134a8e",
+      "#1d2d5c",
+      "#e8291c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Washington Nationals",
+    "logo": "",
+    "blurb": "The Washington Nationals are a professional baseball team based in Washington, D.C. The team was founded in 1969 as the Montreal Expos, and moved to Washington in 2005. The Nationals have had some great players over the years, including Bryce Harper, Max Scherzer, and Stephen Strasburg. In 2019, the team won their first World Series championship, bringing a long-awaited title to the nation's capital.",
+    "colors": [
+      "#ab0003",
+      "#11225b",
+      "#ffffff"
+    ]
+  }
+    ]
+},
+{
+  "league": "Ontario Hockey League",
+  "abbreviation": "OHL",
+  "sport": "hockey",
+  "logo": "https://upload.wikimedia.org/wikinews/en/thumb/8/8f/OHL_Logo.svg/1280px-OHL_Logo.svg.png",
+    "league-colors": [
+      "#3b7bb3", "#063d6d"
+    ],
+
+  "teams": [
+     {
+    "name": "Barrie Colts",
+    "logo": "",
+    "blurb": "The Barrie Colts are a junior ice hockey team based in Barrie, Ontario, Canada. They were founded in 1995 and play in the Ontario Hockey League (OHL). The team has had some great players over the years, including Aaron Ekblad, Mark Scheifele, and Bryan Little. The Colts play their home games at the Barrie Molson Centre, which has a capacity of 4,195.",
+    "colors": [
+      "#0047ab",
+      "#ffcc00",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Erie Otters",
+    "logo": "",
+    "blurb": "The Erie Otters are a junior ice hockey team based in Erie, Pennsylvania. They were founded in 1996 and play in the Ontario Hockey League (OHL). The team has had some great players over the years, including Connor McDavid, Alex DeBrincat, and Dylan Strome. The Otters won their first OHL championship in 2002-2003 and have made it to the championship series four times in total. They play their home games at the Erie Insurance Arena, which has a capacity of 6,833.",
+    "colors": [
+      "#00205b",
+      "#f47920",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Flint Firebirds",
+    "logo": "",
+    "blurb": "The Flint Firebirds have been a part of the Ontario Hockey League (OHL) since 2015 and are based in Flint, Michigan. The team is owned by the Firebirds Sports and Entertainment, a group of local investors. The Firebirds have yet to win an OHL championship, but they have a promising young team and a dedicated fan base. Some notable players who have played for the Firebirds include Ty Dellandrea, Ryan Moore, and Ethan Keppen. The team plays their home games at the Dort Federal Credit Union Event Center, which has a seating capacity of over 4,000.",
+    "colors": [
+      "#ff0000",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Guelph Storm",
+    "logo": "",
+    "blurb": "The Guelph Storm are a junior ice hockey team based in Guelph, Ontario, Canada. They were founded in 1991 and have been playing in the Ontario Hockey League (OHL) since then. The team has won two OHL championships and one Memorial Cup championship. Over the years, the Guelph Storm have produced many notable NHL players, including Jeff O'Neill, Dustin Brown, Drew Doughty, and Robby Fabbri. The team plays their home games at the Sleeman Centre, which has a seating capacity of 4,715.",
+    "colors": [
+      "#00529c",
+      "#f26522",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Hamilton Bulldogs",
+    "logo": "",
+    "blurb": "The Hamilton Bulldogs are a professional ice hockey team in the American Hockey League (AHL). They were founded in 1996 and are based in Hamilton, Ontario, Canada. The Bulldogs have won two Calder Cup championships, in 2003 and 2007. They have also been the farm team for several NHL teams, including the Montreal Canadiens and the Edmonton Oilers. The Bulldogs play their home games at FirstOntario Centre, which has a capacity of over 17,000 fans.",
+    "colors": [
+      "#8c2633",
+      "#fcb514",
+      "#002d62",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Kingston Frontenacs",
+    "logo": "",
+    "blurb": "The Kingston Frontenacs are a junior ice hockey team in the Ontario Hockey League (OHL). The team was founded in 1973 and has since become a beloved part of the Kingston community. Although the Frontenacs have not won a Memorial Cup championship, they have had a number of successful seasons and have produced many talented players who have gone on to play in the NHL. Some notable alumni include Doug Gilmour, Kirk Muller, and Wayne Simmonds. The Frontenacs play their home games at the Leon's Centre in downtown Kingston.",
+    "colors": [
+      "#00205b",
+      "#ffffff",
+      "#e31b23",
+      "#f1bf00"
+    ]
+  },
+  {
+    "name": "Kitchener Rangers",
+    "logo": "",
+    "blurb": "The Kitchener Rangers are a junior ice hockey team based in Kitchener, Ontario, Canada. They play in the Ontario Hockey League (OHL) and have been a part of the league since 1963. The team has a rich history, having won the Memorial Cup twice, in 1982 and 2003. The Rangers have also produced many NHL players over the years, including Larry Robinson, Scott Stevens, and Al MacInnis. The team plays their home games at the Kitchener Memorial Auditorium Complex, which has a seating capacity of 7,777.",
+    "colors": [
+      "#00539b",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "London Knights",
+    "logo": "",
+    "blurb": "The London Knights are a junior ice hockey team based in London, Ontario, Canada. They were founded in 1965 and have won the Memorial Cup, the championship of the Canadian Hockey League, four times. The team has produced many NHL players, including Patrick Kane, Corey Perry, and John Tavares. The Knights play their home games at Budweiser Gardens, which has a capacity of over 9,000 fans.",
+    "colors": [
+      "#000000",
+      "#ffcd00",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Mississauga Steelheads",
+    "logo": "",
+    "blurb": "The Mississauga Steelheads are an Ontario Hockey League (OHL) team based in Mississauga, Ontario, Canada. The team was founded in 2012 and plays their home games at the Paramount Fine Foods Centre. The Steelheads have yet to win an OHL championship, but have made it to the playoffs several times since their inception. Some notable former players include Owen Tippett, Michael McLeod, and Nic Hague.",
+    "colors": [
+      "#00447c",
+      "#ff8200",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Niagara IceDogs",
+    "logo": "",
+    "blurb": "The Niagara IceDogs are a junior ice hockey team in the Ontario Hockey League (OHL) based in St. Catharines, Ontario, Canada. The team was founded in 2007 and has quickly become one of the most successful teams in the OHL. The IceDogs have won two Eastern Conference championships and one OHL championship. The team has produced several NHL players, including Alex Pietrangelo, Dougie Hamilton, and Ryan Strome.",
+    "colors": [
+      "#ed1c24",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "North Bay Battalion",
+    "logo": "",
+    "blurb": "The North Bay Battalion is a major junior ice hockey team in the Ontario Hockey League (OHL). The team was founded in 1998 and is based in North Bay, Ontario, Canada. The Battalion have made the playoffs in 12 of their 22 seasons, winning the OHL championship in 2013-14. The team has produced several NHL players, including Wojtek Wolski, Raffi Torres, and Nick Paul. The Battalion play their home games at Memorial Gardens, which has a capacity of 4,246.",
+    "colors": [
+      "#0c2340",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Oshawa Generals",
+    "logo": "",
+    "blurb": "The Oshawa Generals are a major junior ice hockey team based in Oshawa, Ontario, Canada. They were founded in 1937 and have a rich history of success in the Ontario Hockey League (OHL), having won the Memorial Cup five times. The team has produced many NHL stars over the years, including Bobby Orr, Eric Lindros, and John Tavares. The Generals play their home games at the Tribute Communities Centre, which has a capacity of over 5,000 fans.",
+    "colors": [
+      "#c8102e",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Ottawa 67's",
+    "logo": "",
+    "blurb": "The Ottawa 67's are a major junior ice hockey team based in Ottawa, Ontario, Canada. The team was founded in 1967, coinciding with Canada's centennial year, and is named after this event. They play in the Ontario Hockey League (OHL) and have won the J. Ross Robertson Cup as OHL champions four times. The team has produced many NHL players over the years, including Bobby Smith, Doug Wilson, and Gary Roberts. The 67's play their home games at TD Place Arena, which has a seating capacity of 10,000.",
+    "colors": [
+      "#c8102e",
+      "#1d1d1b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Owen Sound Attack",
+    "logo": "",
+    "blurb": "The Owen Sound Attack is a junior ice hockey team in the Ontario Hockey League (OHL). The team was founded in 1989 and is based in Owen Sound, Ontario, Canada. The Attack has won two OHL championships, in 2011 and 2017, and has produced numerous NHL players, including Bobby Ryan, Joey Hishon, and Garrett Wilson. The team plays its home games at the Bayshore Community Centre, which has a seating capacity of 3,500.",
+    "colors": [
+      "#c8102e",
+      "#000000",
+      "#fcb514",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Peterborough Petes",
+    "logo": "",
+    "blurb": "The Peterborough Petes have been a part of the Ontario Hockey League (OHL) since 1956 and have won the OHL championship nine times. They have also produced many notable NHL players, including Bob Gainey, Steve Yzerman, and Chris Pronger. The Petes play their home games at the Peterborough Memorial Centre, which has a seating capacity of over 4,000 fans.",
+    "colors": [
+      "#ee1c25",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Saginaw Spirit",
+    "logo": "",
+    "blurb": "The Saginaw Spirit are a major junior ice hockey team based in Saginaw, Michigan. They play in the Western Conference of the Ontario Hockey League (OHL). The team was founded in 2002 and has since become a popular sports team in the Saginaw area. The Saginaw Spirit have never won an OHL championship, but have made it to the playoffs several times. They have had some great players over the years, including Brandon Saad, who went on to play in the NHL. The team plays their home games at the Dow Event Center, which has a seating capacity of 5,527.",
+    "colors": [
+      "#003087",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Sarnia Sting",
+    "logo": "",
+    "blurb": "The Sarnia Sting are a junior ice hockey team in the Ontario Hockey League (OHL) based in Sarnia, Ontario, Canada. The team was founded in 1994 and has been a part of the OHL since then. The Sting have never won an OHL championship or a Memorial Cup championship, but they have had some great players over the years, including Steven Stamkos, Nail Yakupov, and Jakob Chychrun. The Sting play their home games at Progressive Auto Sales Arena, which has a seating capacity of 5,500.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Sault Ste. Marie Greyhounds",
+    "logo": "",
+    "blurb": "The Sault Ste. Marie Greyhounds are a major junior ice hockey team based in Sault Ste. Marie, Ontario, Canada. They were founded in 1919 and have been a part of the Ontario Hockey League since 1972. The team has won three J. Ross Robertson Cup championships as OHL champions, in 1985, 1991, and 1992. They have also won one Memorial Cup championship as Canadian Hockey League champions, in 1993. The Greyhounds have produced many NHL players over the years, including Wayne Gretzky, Ron Francis, Joe Thornton, and Jeff Carter.",
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#c8102e",
+      "#fcb514"
+    ]
+  },
+  {
+    "name": "Sudbury Wolves",
+    "logo": "",
+    "blurb": "The Sudbury Wolves have been a part of the Ontario Hockey League (OHL) since 1972 and have won three J. Ross Robertson Cup championships as OHL champions. The team has produced many notable NHL players, including Mike Foligno, Ron Duguay, and Mike Ridley. The Wolves play their home games at the Sudbury Community Arena, which has a capacity of 4,640 spectators.",
+    "colors": [
+      "#1b2e4f",
+      "#f9b233",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Windsor Spitfires",
+    "logo": "",
+    "blurb": "The Windsor Spitfires are a major junior ice hockey team based in Windsor, Ontario, Canada. The team was founded in 1975 and plays in the Ontario Hockey League (OHL). The Spitfires have won the Memorial Cup three times, in 2009, 2010, and 2017, and have produced many NHL players over the years, including Taylor Hall, Adam Henrique, and Cam Fowler. The team plays their home games at the WFCU Centre, which has a capacity of 6,500 spectators.",
+    "colors": [
+      "#006633",
+      "#ffffff"
+    ]
+  }
+  ]
+},
+{
+  "league": "Western Hockey League",
+  "abbreviation": "WHL",
+  "sport": "hockey",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Western_Hockey_League.svg/640px-Western_Hockey_League.svg.png",
+    "league-colors": [
+      "#d1313c", "#000000"
+    ],
+  "teams": [
+  {
+    "name": "Brandon Wheat Kings",
+    "logo": "",
+    "blurb": "The Brandon Wheat Kings are a major junior ice hockey team based in Brandon, Manitoba, Canada. They were founded in 1967 and have been a part of the Western Hockey League (WHL) since then. The team has won three WHL championships and one Memorial Cup championship in 1979. The Wheat Kings have produced many NHL players over the years, including Ron Hextall, Ray Ferraro, and Mark Stone. The team plays their home games at Westoba Place, which has a capacity of 5,102.",
+    "colors": [
+      "#e03a3e",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Calgary Hitmen",
+    "logo": "",
+    "blurb": "The Calgary Hitmen are a major junior ice hockey team based in Calgary, Alberta, Canada. They were founded in 1994 and play in the Western Hockey League (WHL). The team has won two WHL championships and one Memorial Cup championship. The Hitmen have produced several NHL players, including Brent Seabrook, Karl Alzner, and Ryan Getzlaf. The team plays their home games at the Scotiabank Saddledome, which has a seating capacity of over 19,000.",
+    "colors": [
+      "#c8102e",
+      "#f1be48",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Edmonton Oil Kings",
+    "logo": "",
+    "blurb": "The Edmonton Oil Kings are a major junior ice hockey team based in Edmonton, Alberta, Canada. They are members of the Western Hockey League (WHL) and play their home games at Rogers Place. The team was founded in 2007 and has quickly become one of the most successful teams in the WHL, winning two league championships and one Memorial Cup championship in 2014. The Oil Kings have also produced several notable NHL players, including Curtis Lazar, Griffin Reinhart, and Henrik Samuelsson.",
+    "colors": [
+      "#00205b",
+      "#ffcc00",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Everett Silvertips",
+    "logo": "",
+    "blurb": "The Everett Silvertips are a Western Hockey League team based in Everett, Washington. The team was founded in 2003 and has since become a fan favorite in the Pacific Northwest. The Silvertips have had some great players over the years, including Radko Gudas, Ryan Murray, and Carter Hart. The team plays their home games at Angel of the Winds Arena, which has a seating capacity of 8,149.",
+    "colors": [
+      "#183b7a",
+      "#fcd20b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Kamloops Blazers",
+    "logo": "",
+    "blurb": "The Kamloops Blazers have been a part of the Western Hockey League (WHL) since 1984 and have won three Memorial Cup championships. The team has a strong following in Kamloops and throughout British Columbia. The Blazers have produced many great players over the years, including Mark Recchi, Shane Doan, and Scott Niedermayer. The team plays their home games at the Sandman Centre, which has a capacity of 5,464 spectators.",
+    "colors": [
+      "#00205b",
+      "#d32f2f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Kelowna Rockets",
+    "logo": "",
+    "blurb": "The Kelowna Rockets have been a part of the Western Hockey League (WHL) since 1995 and have won three WHL championships and two Memorial Cup championships. The team has a strong following in Kelowna and throughout the Okanagan Valley. The Rockets have produced many talented players over the years, including Shea Weber, Jamie Benn, and Duncan Keith. The team plays their home games at Prospera Place, which has a seating capacity of 6,000.",
+    "colors": [
+      "#ed1c24",
+      "#1f4287",
+      "#f1d302",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Lethbridge Hurricanes",
+    "logo": "",
+    "blurb": "The Lethbridge Hurricanes are a Canadian major junior ice hockey team based in Lethbridge, Alberta. They are members of the Western Hockey League (WHL) and have been a part of the league since 1970. The team has had some success over the years, including winning the WHL championship in 1997. The Hurricanes have also produced some notable NHL players, such as Kris Versteeg, Zac Rinaldo, and Cam Talbot. The team plays their home games at the ENMAX Centre, which has a seating capacity of over 5,000.",
+    "colors": [
+      "#d51e2c",
+      "#f1be48",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Medicine Hat Tigers",
+    "logo": "",
+    "blurb": "The Medicine Hat Tigers are a major junior ice hockey team in the Western Hockey League (WHL). The team was founded in 1970 and is based in Medicine Hat, Alberta, Canada. They have won two WHL championships and one Memorial Cup championship. The team has a strong following in Medicine Hat and throughout Alberta. The Tigers have produced many NHL players over the years, including Trevor Linden, Lanny McDonald, and Kris Russell.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Moose Jaw Warriors",
+    "logo": "",
+    "blurb": "The Moose Jaw Warriors are a junior ice hockey team in the Western Hockey League (WHL). They were founded in 1984 and play their home games at Mosaic Place in Moose Jaw, Saskatchewan. The team has a strong following in the local community and has produced many notable players, including Ryan Smyth, Theo Fleury, and Morgan Rielly. The Warriors have won two WHL championships, in 1989 and 2018.",
+    "colors": [
+      "#1b4f72",
+      "#c0392b",
+      "#f39c12",
+      "#2c3e50",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Portland Winterhawks",
+    "logo": "",
+    "blurb": "The Portland Winterhawks are a junior ice hockey team that plays in the Western Hockey League (WHL). The team was founded in 1976 and has won three Memorial Cup championships. They have a strong following in Portland, Oregon and have produced many NHL players over the years, including Ryan Johansen and Sven Baertschi. The Winterhawks play their home games at the Veterans Memorial Coliseum.",
+    "colors": [
+      "#0072bc",
+      "#e03a3e",
+      "#fcb514",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Prince Albert Raiders",
+    "logo": "",
+    "blurb": "The Prince Albert Raiders are a major junior ice hockey team based in Prince Albert, Saskatchewan. They were founded in 1971 and have won three WHL championships and one Memorial Cup championship in 1985. The team has produced many NHL players over the years, including Mike Modano, Dave Manson, and Leon Draisaitl. The Raiders play their home games at the Art Hauser Centre, which has a seating capacity of 2,600.",
+    "colors": [
+      "#c8102e",
+      "#fcb514",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Prince George Cougars",
+    "logo": "",
+    "blurb": "The Prince George Cougars are a Canadian major junior ice hockey team currently members of the Western Hockey League (WHL). The team was founded in 1994 and plays its home games at the CN Centre in Prince George, British Columbia. The Cougars have a strong following in their home city and throughout Northern British Columbia. The team has produced some great players over the years, including NHL stars like Brett Connolly, Dan Hamhuis, and Zdeno Chara.",
+    "colors": [
+      "#ff8c00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Red Deer Rebels",
+    "logo": "",
+    "blurb": "The Red Deer Rebels are a junior ice hockey team that plays in the Western Hockey League (WHL). They were founded in 1992 and are based in Red Deer, Alberta. The team has had some successful seasons over the years, including winning the WHL championship in 2001. The Rebels have also produced some notable NHL players, such as Dion Phaneuf and Brandon Sutter. The team plays their home games at the ENMAX Centrium, which has a seating capacity of over 6,700.",
+    "colors": [
+      "#b3121e",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Regina Pats",
+    "logo": "",
+    "blurb": "The Regina Pats are a major junior ice hockey team based in Regina, Saskatchewan, Canada. They play in the Western Hockey League (WHL) and have been a part of the league since 1966. The team has a storied history, with three Memorial Cup championships to their name (1974, 1976, and 1980). They have also produced many NHL players, including Jordan Eberle, Braden Holtby, and Doug Wickenheiser. The Regina Pats play their home games at the Brandt Centre, which has a seating capacity of over 6,000.",
+    "colors": [
+      "#00529c",
+      "#f1be48",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Saskatoon Blades",
+    "logo": "",
+    "blurb": "The Saskatoon Blades have been a part of the Western Hockey League (WHL) since 1964 and have never won a Memorial Cup championship. Despite this, they have a loyal following in their home city of Saskatoon and throughout Saskatchewan. The team has had some great players over the years, including Wendel Clark, Brian Skrudland, and Curtis Leschyshyn. The Blades play their home games at SaskTel Centre, which has a seating capacity of 15,195.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Seattle Thunderbirds",
+    "logo": "",
+    "blurb": "The Seattle Thunderbirds have been a part of the Western Hockey League since 1977 and have won one championship in 2017. The team has a strong following in the Seattle area and throughout the Pacific Northwest. The Thunderbirds have produced some notable NHL players, including Mathew Barzal, Shea Theodore, and Ryan Gropp. The team plays their home games at the accesso ShoWare Center in Kent, Washington.",
+    "colors": [
+      "#00539b",
+      "#0085c5",
+      "#041e42",
+      "#999999",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Spokane Chiefs",
+    "logo": "",
+    "blurb": "The Spokane Chiefs are a major junior ice hockey team based in Spokane, Washington. They have been a part of the Western Hockey League (WHL) since 1985 and have won two WHL championships and one Memorial Cup championship. The team has a strong following in Spokane and throughout the region. The Chiefs have produced a number of NHL players, including Tyler Johnson, Kailer Yamamoto, and Derek Ryan. The Chiefs play their home games at Spokane Arena, which has a capacity of 10,759.",
+    "colors": [
+      "#e31b23",
+      "#1b2e4d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Swift Current Broncos",
+    "logo": "",
+    "blurb": "The Swift Current Broncos are a major junior ice hockey team in the Western Hockey League (WHL). The team was founded in 1967 and is based in Swift Current, Saskatchewan, Canada. The Broncos have won two WHL championships, in 1989 and 1993, and have produced several NHL players, including Joe Sakic, Sheldon Kennedy, and Todd Holt. The team plays its home games at the Innovation Credit Union i-Plex, which has a seating capacity of 2,879.",
+    "colors": [
+      "#00539b",
+      "#fdb813",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Tri-City Americans",
+    "logo": "",
+    "blurb": "The Tri-City Americans are a junior ice hockey team in the Western Hockey League (WHL). The team was founded in 1966 and is based in Kennewick, Washington. The Americans have won three division championships and one conference championship since their inception. The team has also produced several NHL players, including Olaf Kolzig, Stu Barnes, and Carey Price. The Americans play their home games at the Toyota Center, which has a seating capacity of 6,000.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#041c2c",
+      "#99999a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Vancouver Giants",
+    "logo": "",
+    "blurb": "The Vancouver Giants are a major junior ice hockey team based in Vancouver, British Columbia, Canada. They play in the Western Hockey League (WHL) and have been a part of the league since 2001. The Giants have won one WHL championship in 2006 and have produced some great NHL players such as Evander Kane, Milan Lucic, and Brendan Gallagher. The team plays their home games at the Langley Events Centre, which has a seating capacity of 5,276.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#041c2c",
+      "#99999a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Victoria Royals",
+    "logo": "",
+    "blurb": "The Victoria Royals have been a part of the Western Hockey League (WHL) since 2011 and are based in Victoria, British Columbia. The team has had some successful seasons, winning the Scotty Munro Memorial Trophy for the best regular season record in the WHL in the 2015-2016 season. The Royals have also produced some notable NHL players, including Joe Hicketts and Tyler Soy. The team plays their home games at the Save-On-Foods Memorial Centre, which has a seating capacity of 7,400.",
+    "colors": [
+      "#003366",
+      "#ffffff",
+      "#8a8d8f"
+    ]
+  },
+  {
+    "name": "Winnipeg Ice",
+    "logo": "",
+    "blurb": "The Winnipeg Ice are a Western Hockey League (WHL) team that was founded in 2019. They play their home games at the Wayne Fleming Arena in Winnipeg, Manitoba. Despite being a relatively new team, the Ice have already made a name for themselves in the WHL, finishing first in the East Division during the 2019-2020 season. The team has a bright future ahead of them, with several talented young players on their roster.",
+    "colors": [
+      "#00205b",
+      "#f9a01b",
+      "#ffffff"
+    ]
+  }
+  ]
+},
+{
+  "league": "Quebec Major Junior Hockey League",
+  "abbreviation": "QMJHL",
+  "sport": "hockey",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Quebec_Major_Junior_Hockey_League.svg/1200px-Quebec_Major_Junior_Hockey_League.svg.png",
+      "league-colors": [
+      "#275ea5", "#0d3c78"
+    ],
+  "teams": [
+    {
+    "name": "Acadie-Bathurst Titan",
+    "logo": "",
+    "blurb": "The Acadie-Bathurst Titan are a major junior ice hockey team based in Bathurst, New Brunswick, Canada. The team was founded in 1969 and plays in the Quebec Major Junior Hockey League (QMJHL). The Titan have won two QMJHL championships and one Memorial Cup championship. The team has produced many notable NHL players, including Patrice Bergeron, Roberto Luongo, and Mario Lemieux. The Titan play their home games at the K.C. Irving Regional Centre, which has a seating capacity of 3,500.",
+    "colors": [
+      "#1c3c6a",
+      "#ffcc00",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Baie-Comeau Drakkar",
+    "logo": "",
+    "blurb": "The Baie-Comeau Drakkar are a junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 1997 and plays its home games at the Centre Henry-Leonard in Baie-Comeau, Quebec. The Drakkar have had some success over the years, winning the QMJHL President's Cup in 2014 and making it to the Memorial Cup that same year. The team has produced several notable NHL players, including Maxime Talbot, Simon Gagne, and Alex Burrows.",
+    "colors": [
+      "#1d2e5c",
+      "#f9b41f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Blainville-Boisbriand Armada",
+    "logo": "",
+    "blurb": "The Blainville-Boisbriand Armada is a junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 2011 and is based in the city of Blainville-Boisbriand, Quebec, Canada. The Armada plays its home games at the Centre d'Excellence Sports Rousseau. The team has had some great players over the years, including Philippe Myers, Alex Barr\u00e9-Boulet, and Antoine Dufort-Plante.",
+    "colors": [
+      "#003087",
+      "#ffffff",
+      "#c8102e",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Cape Breton Eagles",
+    "logo": "",
+    "blurb": "The Cape Breton Eagles are a Quebec Major Junior Hockey League team based in Sydney, Nova Scotia, Canada. They were founded in 1997 and have since become a beloved part of the community. Although they have yet to win a Memorial Cup championship, the team has had some great players over the years, including Marc-Andre Fleury, James Sheppard, and Kyle McGrath. The Eagles play their home games at Centre 200, which has a seating capacity of 5,000.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#ffcc33"
+    ]
+  },
+  {
+    "name": "Charlottetown Islanders",
+    "logo": "",
+    "blurb": "The Charlottetown Islanders are a major junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). The team is based in Charlottetown, Prince Edward Island, Canada. They were founded in 1982 as the Verdun Juniors and moved to Charlottetown in 2003. The Islanders have had some successful seasons in recent years, finishing first in the Maritimes Division in the 2018-19 season. The team has produced some notable NHL players, including Brad Richards and Daniel Sprong.",
+    "colors": [
+      "#ffcc00",
+      "#ff6600",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Chicoutimi Saguen\u00e9ens",
+    "logo": "",
+    "blurb": "The Chicoutimi Saguen\u00e9ens are a junior ice hockey team based in Chicoutimi, Quebec, Canada. They were founded in 1973 and have been a part of the Quebec Major Junior Hockey League (QMJHL) since then. The team has won three President's Cups as QMJHL champions, in 1991, 1995, and 2018. The team has also won one Memorial Cup championship, in 1991. Some notable players who have played for the Saguen\u00e9ens include Patrice Bergeron, Simon Gagn\u00e9, and Roberto Luongo.",
+    "colors": [
+      "#003366",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Drummondville Voltigeurs",
+    "logo": "",
+    "blurb": "The Drummondville Voltigeurs are a junior ice hockey team from Drummondville, Quebec, Canada. The team was founded in 1982 and plays in the Quebec Major Junior Hockey League (QMJHL). The Voltigeurs have won the QMJHL championship twice, in 2009 and 2012, and have made it to the Memorial Cup finals twice as well, in 2009 and 2013. The team has produced several NHL players, including Patrice Bergeron, Sean Couturier, and Dmitry Kulikov.",
+    "colors": [
+      "#d71e24",
+      "#ffffff",
+      "#000000",
+      "#c4c4c4"
+    ]
+  },
+  {
+    "name": "Gatineau Olympiques",
+    "logo": "",
+    "blurb": "The Gatineau Olympiques are a junior ice hockey team that plays in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 1973 and has won two President's Cups as QMJHL champions and one Memorial Cup as Canadian Hockey League champions. The Gatineau Olympiques have also produced many notable NHL players, including Luc Robitaille, Martin Brodeur, and Claude Giroux.",
+    "colors": [
+      "#00205b",
+      "#ffffff",
+      "#e51937"
+    ]
+  },
+  {
+    "name": "Halifax Mooseheads",
+    "logo": "",
+    "blurb": "The Halifax Mooseheads are a junior ice hockey team that plays in the Quebec Major Junior Hockey League (QMJHL). They were founded in 1994 and have since become one of the most successful teams in the league, winning the President's Cup three times and the Memorial Cup once. The team has produced many NHL players, including Nathan MacKinnon, Jonathan Drouin, and Nikolaj Ehlers. The Mooseheads play their home games at the Scotiabank Centre in Halifax, Nova Scotia.",
+    "colors": [
+      "#00539b",
+      "#ee2b2c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Moncton Wildcats",
+    "logo": "",
+    "blurb": "The Moncton Wildcats are a major junior ice hockey team based in Moncton, New Brunswick, Canada. The team was founded in 1995 and plays in the Quebec Major Junior Hockey League (QMJHL). The Wildcats have had a successful history, winning the QMJHL championship in 2006 and making it to the Memorial Cup finals in the same year. The team has produced many NHL players, including Keith Yandle, Brandon Gormley, and Ivan Barbashev. The Wildcats play their home games at the Avenir Centre, which opened in 2018 and has a seating capacity of over 8,800.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Quebec Remparts",
+    "logo": "",
+    "blurb": "The Quebec Remparts are a junior ice hockey team that plays in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 1969 and is based in Quebec City, Quebec, Canada. The Remparts have a storied history, having won the Memorial Cup championship twice, in 1971 and 2006. The team has produced many talented players over the years, including Guy Lafleur, Michel Goulet, and Marc-Edouard Vlasic. The Remparts play their home games at the Videotron Centre, which can seat up to 18,259 fans.",
+    "colors": [
+      "#00205b",
+      "#ffffff",
+      "#f9a01b"
+    ]
+  },
+  {
+    "name": "Rimouski Oc\u00e9anic",
+    "logo": "",
+    "blurb": "The Rimouski Oc\u00e9anic is a junior ice hockey team that plays in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 1995 and has been a successful franchise ever since. The Oc\u00e9anic have won two President's Cups as QMJHL champions in 2000 and 2015, and have also produced several NHL players such as Vincent Lecavalier, Brad Richards, and Sidney Crosby. The team plays its home games at the Colis\u00e9e Financi\u00e8re Sun Life in Rimouski, Quebec.",
+    "colors": [
+      "#00539b",
+      "#ffffff",
+      "#f9a01b",
+      "#8ec43d"
+    ]
+  },
+  {
+    "name": "Rouyn-Noranda Huskies",
+    "logo": "",
+    "blurb": "The Rouyn-Noranda Huskies are a major junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). They were founded in 1996 and are based in Rouyn-Noranda, Quebec, Canada. The team has won three President's Cups as QMJHL champions and one Memorial Cup as Canadian Hockey League champions in 2016. The Huskies have produced several notable NHL players, including Patrice Bergeron, Antoine Roussel, and Jason Demers.",
+    "colors": [
+      "#b9a57d",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Saint John Sea Dogs",
+    "logo": "",
+    "blurb": "The Saint John Sea Dogs are a major junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). They were founded in 2005 and have won two President's Cups as QMJHL champions (2011, 2012) and one Memorial Cup as Canadian Hockey League champions (2011). The team plays its home games at TD Station in Saint John, New Brunswick. The Sea Dogs have produced several NHL players, including Jonathan Huberdeau, Nathan Beaulieu, and Thomas Chabot.",
+    "colors": [
+      "#0d47a1",
+      "#f44336",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Shawinigan Cataractes",
+    "logo": "",
+    "blurb": "The Shawinigan Cataractes are a junior ice hockey team from Shawinigan, Quebec, Canada. They were founded in 1969 and have been a part of the Quebec Major Junior Hockey League since 1973. The team has won three President's Cup championships as QMJHL champions and one Memorial Cup championship as Canadian Hockey League champions. The Cataractes play their home games at the Centre Gervais Auto, which has a capacity of 4,200 spectators.",
+    "colors": [
+      "#00529c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Sherbrooke Phoenix",
+    "logo": "",
+    "blurb": "The Sherbrooke Phoenix are a Quebec Major Junior Hockey League (QMJHL) team that was founded in 2012. They play their home games at the Palais des Sports L\u00e9opold-Drolet in Sherbrooke, Quebec. The team has quickly become a force to be reckoned with in the QMJHL, making it to the playoffs in each of their first six seasons. In 2018, the Phoenix won the QMJHL championship and advanced to the Memorial Cup tournament.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Val-d'Or Foreurs",
+    "logo": "",
+    "blurb": "The Val-d'Or Foreurs are a junior ice hockey team in the Quebec Major Junior Hockey League (QMJHL). The team was founded in 1993 and has since won two QMJHL championships and one Memorial Cup championship. The team plays their home games at the Centre Air Creebec in Val-d'Or, Quebec. The Foreurs have produced several notable NHL players, including Antoine Roussel and Anthony Mantha.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Victoriaville Tigres",
+    "logo": "",
+    "blurb": "The Victoriaville Tigres are a major junior ice hockey team based in Victoriaville, Quebec, Canada. They were founded in 1987 and have been a part of the Quebec Major Junior Hockey League (QMJHL) ever since. The team has won one President's Cup championship in 2002 and have produced several NHL players such as David Desharnais, Yanni Gourde, and Antoine Roussel. The Tigres play their home games at the Colis\u00e9e Desjardins.",
+    "colors": [
+      "#e03a3e",
+      "#ffffff",
+      "#000000"
+    ]
+  }
+  ]
+},
+{
+  "league": "Women's National Basketball Association",
+  "abbreviation": "WNBA",
+  "sport": "basketball",
+  "logo": "https://logos-world.net/wp-content/uploads/2021/11/WNBA-Symbol.png",
+      "league-colors": [
+      "#eb562e", "#000"
+    ],
+  "teams": [
+    {
+    "name": "Atlanta Dream",
+    "logo": "",
+    "blurb": "The Atlanta Dream is a professional women's basketball team that plays in the Women's National Basketball Association (WNBA). The team was founded in 2007 and has since become a popular fixture in the Atlanta sports scene. Despite never winning a WNBA championship, the Dream has had a number of talented players over the years, including Angel McCoughtry, Tiffany Hayes, and Elizabeth Williams. The Dream plays their home games at the Gateway Center Arena @ College Park.",
+    "colors": [
+      "#E03A3E",
+      "#000000",
+      "#C1D32F"
+    ]
+  },
+  {
+    "name": "Chicago Sky",
+    "logo": "",
+    "blurb": "The Chicago Sky is a professional basketball team that plays in the Women's National Basketball Association (WNBA). The team was founded in 2006 and has been a part of the league ever since. The Sky has made it to the playoffs several times, but has yet to win a WNBA championship. The team has had some great players over the years, including Elena Delle Donne, Courtney Vandersloot, and Allie Quigley. The Sky play their home games at Wintrust Arena in Chicago, Illinois.",
+    "colors": [
+      "#5D2E8C",
+      "#FDB927",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Connecticut Sun",
+    "logo": "",
+    "blurb": "The Connecticut Sun is a professional women's basketball team based in Uncasville, Connecticut. The team was founded in 1999 and has been a member of the Women's National Basketball Association (WNBA) since its inception in 2003. The Sun have made the playoffs 14 times and have reached the WNBA Finals twice, but have yet to win a championship. The team has a passionate fan base and plays their home games at Mohegan Sun Arena.",
+    "colors": [
+      "#ffc72c",
+      "#1d1160",
+      "#c4ced4"
+    ]
+  },
+  {
+    "name": "Dallas Wings",
+    "logo": "",
+    "blurb": "The Dallas Wings are a professional basketball team that plays in the Women's National Basketball Association (WNBA). The team was founded in 1998 as the Detroit Shock and won three WNBA championships before relocating to Tulsa in 2010. The team moved to Dallas in 2016 and has been known as the Wings ever since. The team has had some great players over the years, including Deanna Nolan, Cheryl Ford, and Candice Dupree. The Wings play their home games at the College Park Center in Arlington, Texas.",
+    "colors": [
+      "#007DC5",
+      "#C41E3A",
+      "#FDB813"
+    ]
+  },
+  {
+    "name": "Indiana Fever",
+    "logo": "",
+    "blurb": "The Indiana Fever is a professional women's basketball team that plays in the Women's National Basketball Association (WNBA). The team was founded in 2000 and has been a part of the league ever since. The Fever have made it to the WNBA Finals three times, winning their first championship in 2012. The team has had some great players over the years, including Tamika Catchings, who was a 10-time WNBA All-Star and won the league's MVP award in 2011. The Fever play their home games at Bankers Life Fieldhouse in Indianapolis, Indiana.",
+    "colors": [
+      "#ffc633",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Las Vegas Aces",
+    "logo": "",
+    "blurb": "The Las Vegas Aces are a professional women's basketball team that plays in the Western Conference of the Women's National Basketball Association (WNBA). The team was founded in 1997 as the Utah Starzz and moved to San Antonio in 2003 before relocating to Las Vegas in 2018. The Aces have yet to win a WNBA championship but have made the playoffs several times. The team plays their home games at the Mandalay Bay Events Center in Las Vegas, Nevada.",
+    "colors": [
+      "#c4ced3",
+      "#1e1f26",
+      "#a5acaf",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles Sparks",
+    "logo": "",
+    "blurb": "The Los Angeles Sparks are a professional basketball team based in Los Angeles, California. The team was founded in 1997 and is a part of the Women's National Basketball Association (WNBA). The Sparks have won three WNBA championships, in 2001, 2002, and 2016. The team has had some great players over the years, including Lisa Leslie, Candace Parker, and Nneka Ogwumike. The Sparks play their home games at the Staples Center, which is also home to the Los Angeles Lakers and Los Angeles Clippers of the NBA.",
+    "colors": [
+      "#fdb927",
+      "#1d1160",
+      "#c4ced4"
+    ]
+  },
+  {
+    "name": "Minnesota Lynx",
+    "logo": "",
+    "blurb": "The Minnesota Lynx are a professional women's basketball team that plays in the Women's National Basketball Association (WNBA). They were founded in 1999 and have won four WNBA championships in 2011, 2013, 2015, and 2017. The team has been home to many talented players, including Maya Moore, Sylvia Fowles, and Seimone Augustus. The Lynx play their home games at the Target Center in Minneapolis, Minnesota.",
+    "colors": [
+      "#0C2340",
+      "#0072CE",
+      "#C8102E",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "New York Liberty",
+    "logo": "",
+    "blurb": "The New York Liberty is a professional basketball team based in New York City. The team was founded in 1997 and is one of the original eight teams of the Women's National Basketball Association (WNBA). The Liberty has made it to the WNBA playoffs 15 times, but has yet to win a championship. The team has had many great players over the years, including Teresa Weatherspoon, Becky Hammon, and Tina Charles. The Liberty plays their home games at the Barclays Center in Brooklyn, New York.",
+    "colors": [
+      "#0072c6",
+      "#f58426",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Phoenix Mercury",
+    "logo": "",
+    "blurb": "The Phoenix Mercury is a professional women's basketball team based in Phoenix, Arizona. The team was founded in 1997 and is a part of the Women's National Basketball Association (WNBA). The Mercury has won three WNBA championships, in 2007, 2009, and 2014. The team has had some great players over the years, including Diana Taurasi, Brittney Griner, and Penny Taylor. The Mercury play their home games at the Footprint Center, which is located in downtown Phoenix.",
+    "colors": [
+      "#E56020",
+      "#1D1160",
+      "#FDB927",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Seattle Storm",
+    "logo": "",
+    "blurb": "The Seattle Storm is a professional women's basketball team based in Seattle, Washington. They were founded in 2000 and have won four WNBA championships in 2004, 2010, 2018, and 2020. The team has a passionate fan base and has been home to some of the greatest players in WNBA history, including Lauren Jackson, Sue Bird, and Breanna Stewart. The Storm plays their home games at Angel of the Winds Arena in Everett, Washington.",
+    "colors": [
+      "#006633",
+      "#fdb927",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Washington Mystics",
+    "logo": "",
+    "blurb": "The Washington Mystics are a professional basketball team based in Washington, D.C. They were founded in 1998 and have been a part of the Women's National Basketball Association (WNBA) since its inception in 1997. The Mystics have made it to the WNBA Finals twice, in 2018 and 2019, and won their first championship in 2019. The team has some of the best players in the league, including Elena Delle Donne, who has won two WNBA MVP awards. The Mystics play their home games at the Entertainment and Sports Arena in Southeast D.C.",
+    "colors": [
+      "#0e2240",
+      "#c8102e",
+      "#fdba33",
+      "#ffffff"
+    ]
+  }
+  ]
+},
+{
+  "league": "Major League Soccer",
+  "abbreviation": "MLS",
+  "sport": "soccer",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png",
+
+      "league-colors": [
+      "#071b59", "#cc3627"
+    ],
+  "teams": [
+    {
+    "name": "Atlanta United FC",
+    "logo": "",
+    "blurb": "Atlanta United FC is a professional soccer club based in Atlanta, Georgia. The team was founded in 2014 and began playing in Major League Soccer (MLS) in 2017. In their first season, Atlanta United FC set a new MLS record for the highest average attendance, drawing over 48,000 fans per game. The team won the MLS Cup championship in 2018, just their second season in the league. Atlanta United FC plays their home games at Mercedes-Benz Stadium, which has a retractable roof and can hold up to 71,000 fans.",
+    "colors": [
+      "#8c1d40",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Austin FC",
+    "logo": "",
+    "blurb": "Austin FC is a professional soccer team based in Austin, Texas. The team was founded in 2018 and began playing in Major League Soccer (MLS) in 2021. Despite being a new team, Austin FC has already gained a passionate following in Austin and throughout Texas. The team's home stadium is Q2 Stadium, which opened in 2021 and has a seating capacity of 20,500. Some of the team's notable players include Alex Ring, Tom\u00e1s Pochettino, and Cecilio Dom\u00ednguez.",
+    "colors": [
+      "#244f26",
+      "#fdb913",
+      "#a1a1a4"
+    ]
+  },
+  {
+    "name": "Chicago Fire FC",
+    "logo": "",
+    "blurb": "Chicago Fire FC is a professional soccer team based in Bridgeview, Illinois. The team was founded in 1997 and began playing in Major League Soccer (MLS) in 1998 as one of the league's first expansion teams. The team has won one MLS Cup championship, in 1998, and four U.S. Open Cup championships, in 1998, 2000, 2003, and 2006. The team has a passionate fan base and plays its home games at SeatGeek Stadium, which has a seating capacity of 20,000.",
+    "colors": [
+      "#b32524",
+      "#0b2239",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "FC Cincinnati",
+    "logo": "",
+    "blurb": "FC Cincinnati is a professional soccer team based in Cincinnati, Ohio. The team was founded in 2015 and currently plays in the Eastern Conference of Major League Soccer (MLS). Despite being a relatively new team, FC Cincinnati has quickly gained a passionate fanbase and has set numerous attendance records in both the USL and MLS. The team plays its home games at TQL Stadium, a state-of-the-art facility that opened in 2021.",
+    "colors": [
+      "#fc4c02",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Colorado Rapids",
+    "logo": "",
+    "blurb": "The Colorado Rapids are a professional soccer team based in Commerce City, Colorado. They were founded in 1995 and have been a part of Major League Soccer (MLS) since its inception in 1996. The Rapids have won one MLS Cup championship, in 2010, and have also won the U.S. Open Cup once, in 1999. The team plays their home games at Dick's Sporting Goods Park, which has a capacity of 18,061.",
+    "colors": [
+      "#910f1b",
+      "#7b7a7d",
+      "#f5f5f5",
+      "#002b5c"
+    ]
+  },
+  {
+    "name": "Columbus Crew",
+    "logo": "",
+    "blurb": "The Columbus Crew is a professional soccer club based in Columbus, Ohio. The team was founded in 1994 and has won several major trophies, including the MLS Cup in 2008 and the Supporters' Shield in 2004, 2008, and 2009. The Crew has a strong fan base, known as the Nordecke, who are known for their passionate support of the team. The team plays their home games at Lower.com Field, which opened in 2021 and has a seating capacity of 20,000.",
+    "colors": [
+      "#ffe000",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "D.C. United",
+    "logo": "",
+    "blurb": "D.C. United is a professional soccer team based in Washington D.C. The team was founded in 1995 and has won multiple championships, including four MLS Cups and two Supporters' Shields. D.C. United has a passionate fan base and plays their home games at Audi Field, which opened in 2018. Some of the team's most notable players include Jaime Moreno, Ben Olsen, and Eddie Pope.",
+    "colors": [
+      "#000000",
+      "#ff0000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "FC Dallas",
+    "logo": "",
+    "blurb": "FC Dallas is a professional soccer team based in Frisco, Texas. The team was founded in 1996 and has since won the Lamar Hunt U.S. Open Cup twice and the MLS Supporters' Shield once. FC Dallas has a strong youth development program and has produced several notable players, including Weston McKennie and Kellyn Acosta. The team plays their home games at Toyota Stadium, which has a seating capacity of 20,500.",
+    "colors": [
+      "#d2232a",
+      "#002244",
+      "#fcd116"
+    ]
+  },
+  {
+    "name": "Houston Dynamo FC",
+    "logo": "",
+    "blurb": "Houston Dynamo FC is a professional soccer team based in Houston, Texas. The team was founded in 2005 and has won two MLS Cup championships in their short history. The team has a passionate fan base and plays their home games at BBVA Stadium. Some notable players who have played for the Dynamo include Brian Ching, Brad Davis, and Dwayne De Rosario.",
+    "colors": [
+      "#f47c1e",
+      "#002d62",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Inter Miami CF",
+    "logo": "",
+    "blurb": "Inter Miami CF is a professional soccer team based in Miami, Florida. The team was founded in 2018 and began playing in Major League Soccer (MLS) in 2020. Despite being a new team, Inter Miami CF has already gained a strong following in Miami and throughout the state of Florida. The team is owned by a group that includes soccer legend David Beckham. Inter Miami CF plays its home games at DRV PNK Stadium, which has a capacity of 18,000 fans.",
+    "colors": [
+      "#000000",
+      "#8a8d8f",
+      "#ffffff",
+      "#fcd116"
+    ]
+  },
+  {
+    "name": "LA Galaxy",
+    "logo": "",
+    "blurb": "The LA Galaxy have been a part of Major League Soccer (MLS) since its inception in 1996 and are one of the most successful teams in the league's history. They have won the MLS Cup a record five times and have also won the Supporters' Shield four times. The team has had some great players over the years, including Landon Donovan, David Beckham, and Robbie Keane. The LA Galaxy play their home games at Dignity Health Sports Park, which has a seating capacity of 27,000.",
+    "colors": [
+      "#00245d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Los Angeles FC",
+    "logo": "",
+    "blurb": "Los Angeles FC is a professional soccer team based in Los Angeles, California. The team was founded in 2014 and began playing in Major League Soccer (MLS) in 2018. Despite being a relatively new team, Los Angeles FC has quickly established itself as one of the top teams in MLS. In their first season, they set a number of records, including most points in a debut season and most goals scored by an expansion team. The team plays its home games at Banc of California Stadium, which opened in 2018 and has a capacity of 22,000.",
+    "colors": [
+      "#000000",
+      "#000000",
+      "#eeb111",
+      "#ffffff",
+      "#e31837"
+    ]
+  },
+  {
+    "name": "Minnesota United FC",
+    "logo": "",
+    "blurb": "Minnesota United FC is a professional soccer team based in Saint Paul, Minnesota. The team was founded in 2010 and began playing in Major League Soccer (MLS) in 2017. They play their home games at Allianz Field, which has a seating capacity of 19,400. The team has a strong following in the Twin Cities area and has quickly become one of the most popular sports teams in Minnesota. Some of the team's star players include Darwin Quintero, Kevin Molino, and Ike Opara.",
+    "colors": [
+      "#231f20",
+      "#9b1e3d",
+      "#ffe800",
+      "#9b9c9e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Club de Foot Montr\u00e9al",
+    "logo": "",
+    "blurb": "Club de Foot Montr\u00e9al, also known as CF Montr\u00e9al, is a professional soccer team based in Montreal, Quebec, Canada. The team was founded in 2010 as the Montreal Impact and joined Major League Soccer (MLS) in 2012. In 2021, the team rebranded and changed its name to Club de Foot Montr\u00e9al. The team has had some successful seasons, including reaching the MLS Cup Playoffs multiple times and winning the Canadian Championship in 2013, 2014, and 2019. CF Montr\u00e9al plays its home games at Saputo Stadium, which has a seating capacity of 20,801.",
+    "colors": [
+      "#1d1d1b",
+      "#12274c",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Nashville SC",
+    "logo": "",
+    "blurb": "Nashville SC is a professional soccer team based in Nashville, Tennessee. The team was founded in 2017 and played its first season in the United Soccer League (USL) in 2018. In 2020, Nashville SC made its debut in Major League Soccer (MLS). The team has quickly gained a loyal following in Nashville and has been praised for its passionate fan base. Nashville SC plays its home games at Nissan Stadium, which has a capacity of over 69,000 spectators.",
+    "colors": [
+      "#00205b",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New England Revolution",
+    "logo": "",
+    "blurb": "The New England Revolution is a professional soccer team based in the Greater Boston area. The team was founded in 1995 and plays in Major League Soccer (MLS). The Revolution have reached the MLS Cup final five times but have yet to win a championship. The team's home games are played at Gillette Stadium in Foxborough, Massachusetts. The Revolution have a dedicated fan base known as the 'Revs Army' and their team colors are navy blue, red, and white.",
+    "colors": [
+      "#002244",
+      "#b31b34",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "New York City FC",
+    "logo": "",
+    "blurb": "New York City FC is a professional soccer team based in New York City. The team was founded in 2013 as the 20th franchise of Major League Soccer (MLS). They play their home games at Yankee Stadium in the Bronx, which they share with the New York Yankees baseball team. Despite being a relatively new team, New York City FC has quickly gained a passionate following among soccer fans in the city. The team has had some notable players over the years, including David Villa, Andrea Pirlo, and Frank Lampard.",
+    "colors": [
+      "#6CADDF",
+      "#00285E",
+      "#F2C800",
+      "#A1A1A4"
+    ]
+  },
+  {
+    "name": "New York Red Bulls",
+    "logo": "",
+    "blurb": "The New York Red Bulls are a professional soccer team based in Harrison, New Jersey. The team was founded in 1995 and is a member of Major League Soccer (MLS). The Red Bulls have had some success over the years, winning the Supporters' Shield (awarded to the team with the best regular season record) three times. The team plays its home games at Red Bull Arena, which is located in Harrison and has a seating capacity of 25,000.",
+    "colors": [
+      "#ed1c24",
+      "#ffffff",
+      "#1d1e1f"
+    ]
+  },
+  {
+    "name": "Orlando City SC",
+    "logo": "",
+    "blurb": "Orlando City SC is a professional soccer team based in Orlando, Florida. The team was founded in 2013 and began playing in Major League Soccer (MLS) in 2015. Although the team has not won an MLS Cup championship, they have had some successful seasons and have a dedicated fanbase. The team plays their home games at Exploria Stadium, which opened in 2017 and has a capacity of 25,500 spectators.",
+    "colors": [
+      "#633492",
+      "#fde12e",
+      "#211e1f",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Philadelphia Union",
+    "logo": "",
+    "blurb": "The Philadelphia Union is a professional soccer team based in Chester, Pennsylvania. The team was founded in 2008 and began playing in Major League Soccer (MLS) in 2010. The Union have had some success in their short history, making the playoffs several times and reaching the U.S. Open Cup final in 2014. The team plays its home games at Subaru Park, a soccer-specific stadium located on the banks of the Delaware River.",
+    "colors": [
+      "#001f5b",
+      "#ffd530",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Portland Timbers",
+    "logo": "",
+    "blurb": "The Portland Timbers are a professional soccer team based in Portland, Oregon. They were founded in 2009 and joined Major League Soccer (MLS) in 2011 as an expansion team. The Timbers have a passionate fan base and play their home games at Providence Park, which has a capacity of 25,218. The team has had some successful seasons, winning the MLS Cup in 2015 and the Supporters' Shield in 2013. Some notable players who have played for the Timbers include Diego Valeri, Darlington Nagbe, and Fanendo Adi.",
+    "colors": [
+      "#004812",
+      "#fedf00",
+      "#ffffff",
+      "#0f0f0f"
+    ]
+  },
+  {
+    "name": "Real Salt Lake",
+    "logo": "",
+    "blurb": "Real Salt Lake is a professional soccer team based in Salt Lake City, Utah. The team was founded in 2004 and has since won one MLS Cup championship in 2009. Real Salt Lake plays their home games at Rio Tinto Stadium, which has a seating capacity of 20,213. The team has a strong following in Utah and has been known for their passionate fan base called the 'Riot'. Some notable players who have played for Real Salt Lake include Kyle Beckerman, Nick Rimando, and Javier Morales.",
+    "colors": [
+      "#b3073c",
+      "#013474",
+      "#fdb913",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "San Jose Earthquakes",
+    "logo": "",
+    "blurb": "The San Jose Earthquakes are a professional soccer team based in San Jose, California. The team was founded in 1995 and has had some success in the MLS, winning two MLS Cup championships in 2001 and 2003. The team has also won two Supporters' Shields and one U.S. Open Cup. The Earthquakes play their home games at PayPal Park, which has a capacity of 18,000 spectators. The team has a passionate fan base known as the 'Ultras' who support the team with chants, banners, and tifos.",
+    "colors": [
+      "#006633",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Seattle Sounders FC",
+    "logo": "",
+    "blurb": "Seattle Sounders FC is a professional soccer team based in Seattle, Washington. The team was founded in 2007 and joined Major League Soccer (MLS) as an expansion team in 2009. Since then, the Sounders have become one of the most successful teams in the league, winning four U.S. Open Cups, one Supporters' Shield, and two MLS Cups. The team has a passionate fanbase, known as the 'Sounders FC Alliance', who have sold out every home game since the team's inception. The Sounders play their home games at Lumen Field, which has a capacity of over 67,000 spectators.",
+    "colors": [
+      "#005596",
+      "#4fbb17",
+      "#f3c52c",
+      "#3e3e3e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Sporting Kansas City",
+    "logo": "",
+    "blurb": "Sporting Kansas City is a professional soccer team based in Kansas City, Missouri. The team was founded in 1995 and has won four MLS Cups, two Supporters' Shields, and one US Open Cup. Sporting KC plays its home games at Children's Mercy Park, which has a seating capacity of 18,467. The team has a strong fan base and is known for its passionate supporters' group, the Cauldron. Some of the team's notable players include Preki, Jimmy Conrad, and Matt Besler.",
+    "colors": [
+      "#96cceb",
+      "#c1d82f",
+      "#ffe900",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Toronto FC",
+    "logo": "",
+    "blurb": "Toronto FC is a professional soccer team based in Toronto, Canada. The team was founded in 2005 and joined Major League Soccer (MLS) in 2007 as the league's thirteenth team. Toronto FC has a passionate fanbase known as the 'Red Patch Boys' and plays their home games at BMO Field, which has a seating capacity of 30,000. The team has had some success in recent years, winning the MLS Cup in 2017 and reaching the final of the Concacaf Champions League in 2018.",
+    "colors": [
+      "#e41b23",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Vancouver Whitecaps FC",
+    "logo": "",
+    "blurb": "The Vancouver Whitecaps FC have been a part of Major League Soccer (MLS) since 2011 and have a dedicated fan base in Vancouver, British Columbia. The team has had some notable players over the years, including Kendall Waston, Alphonso Davies, and Fredy Montero. The Whitecaps play their home games at BC Place, a multi-purpose stadium that can hold over 22,000 fans. The team has yet to win an MLS Cup championship, but they have made the playoffs several times and continue to be a competitive team in the league.",
+    "colors": [
+      "#2f3193",
+      "#ffffff",
+      "#9c9b9a",
+      "#035e7b"
+    ]
+  }
+  ]
+},
+
+{
+"league": "American Hockey League",
+"abbreviation": "AHL",
+"sport": "hockey",
+"logo": "ahl.png",
+"league-colors": [
+"#002d62",
+"#c8102e"
+],
+"teams": [
+{
+    "name": "Bakersfield Condors",
+    "logo": "",
+    "blurb": "The Bakersfield Condors are a professional ice hockey team based in Bakersfield, California. They were founded in 1998 and currently play in the American Hockey League (AHL). The team is affiliated with the Edmonton Oilers of the National Hockey League (NHL). The Condors have had some successful seasons in recent years, making it to the playoffs multiple times. They play their home games at Mechanics Bank Arena, which has a capacity of 8,700 spectators.",
+    "colors": [
+      "#ffcc00",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Belleville Senators",
+    "logo": "",
+    "blurb": "The Belleville Senators are a professional ice hockey team in the American Hockey League (AHL) and the affiliate of the Ottawa Senators of the National Hockey League (NHL). The team was founded in 2017 and plays its home games at the CAA Arena in Belleville, Ontario. Despite being a relatively new team, the Belleville Senators have quickly gained a loyal following in their community and have been known for their competitive play on the ice. The team's colors are black, red, and white.",
+    "colors": [
+      "#000000",
+      "#e31837",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Bridgeport Islanders",
+    "logo": "",
+    "blurb": "The Bridgeport Islanders are an American professional ice hockey team that plays in the American Hockey League (AHL). The team is affiliated with the New York Islanders of the National Hockey League (NHL). The Bridgeport Islanders were founded in 2001 as the Bridgeport Sound Tigers and changed their name to the Islanders in 2021. The team plays its home games at the Webster Bank Arena in Bridgeport, Connecticut. The Islanders have had some great players over the years, including Anders Lee, Brock Nelson, and Ryan Pulock.",
+    "colors": [
+      "#00529c",
+      "#f47d30",
+      "#041e42",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Charlotte Checkers",
+    "logo": "",
+    "blurb": "The Charlotte Checkers are a professional ice hockey team based in Charlotte, North Carolina. They were founded in 1956 as the Baltimore Clippers and have been playing in the American Hockey League (AHL) since 2010. The team has won two Calder Cup championships, in 2019 and 2011. The Checkers play their home games at Bojangles' Coliseum, which has a seating capacity of 8,600.",
+    "colors": [
+      "#E03A3E",
+      "#000000",
+      "#A2AAAD",
+      "#C8102E",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Chicago Wolves",
+    "logo": "",
+    "blurb": "The Chicago Wolves are a professional ice hockey team based in Chicago, Illinois. They were founded in 1994 and have been a member of the American Hockey League (AHL) since then. The team has won four league championships, including the Calder Cup in 2002 and 2008. The Wolves are affiliated with the NHL's Carolina Hurricanes and have also served as the primary affiliate for the Atlanta Thrashers and St. Louis Blues. The team plays their home games at the Allstate Arena, which is located in the Chicago suburb of Rosemont.",
+    "colors": [
+      "#000000",
+      "#ffcd00",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Cleveland Monsters",
+    "logo": "",
+    "blurb": "The Cleveland Monsters are a professional ice hockey team in the American Hockey League (AHL). They were founded in 2007 and are based in Cleveland, Ohio. The team is affiliated with the NHL's Columbus Blue Jackets. The Monsters have won one Calder Cup championship in 2016. They play their home games at Rocket Mortgage FieldHouse, which can seat up to 18,500 spectators. The team has a dedicated fan base and is known for its exciting and fast-paced style of play.",
+    "colors": [
+      "#00205b",
+      "#fcb514",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Colorado Eagles",
+    "logo": "",
+    "blurb": "The Colorado Eagles are a professional ice hockey team based in Loveland, Colorado. They were founded in 2003 and play in the American Hockey League (AHL) as an affiliate of the Colorado Avalanche of the National Hockey League (NHL). The team has won two Kelly Cup championships as a member of the ECHL and has made the playoffs in each of their first two seasons in the AHL. The Eagles play their home games at the Budweiser Events Center.",
+    "colors": [
+      "#00205b",
+      "#c8102e",
+      "#fabe2c",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Grand Rapids Griffins",
+    "logo": "",
+    "blurb": "The Grand Rapids Griffins are a professional ice hockey team in the American Hockey League (AHL). They were founded in 1996 and are based in Grand Rapids, Michigan. The Griffins have won two Calder Cup championships, in 2013 and 2017, and have been the AHL affiliate of the Detroit Red Wings since 2002. The team plays their home games at the Van Andel Arena, which has a seating capacity of 10,834.",
+    "colors": [
+      "#ed174c",
+      "#fdbb30",
+      "#00529b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Hartford Wolf Pack",
+    "logo": "",
+    "blurb": "The Hartford Wolf Pack is a professional ice hockey team that plays in the American Hockey League (AHL). The team is based in Hartford, Connecticut and was founded in 1997. They are the AHL affiliate of the New York Rangers, and play their home games at the XL Center. The Wolf Pack have won two Calder Cup championships, in 2000 and 2005, and have had many notable players over the years, including Ryan McDonagh, Artem Anisimov, and Mats Zuccarello.",
+    "colors": [
+      "#00205b",
+      "#ffffff",
+      "#c8102e"
+    ]
+  },
+  {
+    "name": "Hershey Bears",
+    "logo": "",
+    "blurb": "The Hershey Bears are an American Hockey League (AHL) team based in Hershey, Pennsylvania. They were founded in 1932 and have been affiliated with the Washington Capitals of the National Hockey League (NHL) since 2005. The Bears have won 11 Calder Cup championships, making them the most successful team in AHL history. They play their home games at the Giant Center, which has a seating capacity of 10,500.",
+    "colors": [
+      "#472a2b",
+      "#e7d2ad",
+      "#7e543a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Iowa Wild",
+    "logo": "",
+    "blurb": "The Iowa Wild is a professional ice hockey team in the American Hockey League (AHL) that began playing in 2013. The team is based in Des Moines, Iowa, and is affiliated with the Minnesota Wild of the National Hockey League (NHL). The Iowa Wild plays its home games at the Wells Fargo Arena and has a dedicated fan base in the region. The team has had several successful seasons since its inception and has produced many talented players who have gone on to play in the NHL.",
+    "colors": [
+      "#006a4e",
+      "#ffc72c",
+      "#a2aaad"
+    ]
+  },
+  {
+    "name": "Laval Rocket",
+    "logo": "",
+    "blurb": "The Laval Rocket is a professional ice hockey team in the American Hockey League (AHL) and the affiliate of the Montreal Canadiens. The team was founded in 2015 and began playing in the 2017-18 season. The Laval Rocket plays its home games at Place Bell in Laval, Quebec. The team has not won any AHL championships yet, but they have a promising future with talented prospects from the Montreal Canadiens organization.",
+    "colors": [
+      "#c51230",
+      "#0d2b5a",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Lehigh Valley Phantoms",
+    "logo": "",
+    "blurb": "The Lehigh Valley Phantoms are a professional ice hockey team that plays in the American Hockey League (AHL). The team was founded in 1996 as the Philadelphia Phantoms and played in Philadelphia until 2009 when they moved to Glens Falls, New York. In 2014, the team moved to Allentown, Pennsylvania and became the Lehigh Valley Phantoms. The team is the AHL affiliate of the Philadelphia Flyers. The Phantoms have won two Calder Cup championships, in 1998 and 2005.",
+    "colors": [
+      "#000000",
+      "#c8102e",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Manitoba Moose",
+    "logo": "",
+    "blurb": "The Manitoba Moose are a professional ice hockey team based in Winnipeg, Manitoba, Canada. They were founded in 1996 and play in the American Hockey League (AHL). The Moose are affiliated with the NHL's Vancouver Canucks and have been a training ground for many of the Canucks' top prospects over the years. Despite not yet winning a Calder Cup championship, the Moose have a dedicated fan base and are known for their exciting, fast-paced style of play.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Milwaukee Admirals",
+    "logo": "",
+    "blurb": "The Milwaukee Admirals are a professional ice hockey team in the American Hockey League (AHL). They were founded in 1970 and have been a part of the AHL since 2001. The team has won one Calder Cup championship in 2004 and have been a successful team in the AHL. The Admirals play their home games at the UW\u2013Milwaukee Panther Arena in Milwaukee, Wisconsin. The team has had some great players over the years, including Pekka Rinne, Shea Weber, and Ryan Suter.",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Ontario Reign",
+    "logo": "",
+    "blurb": "The Ontario Reign is a professional ice hockey team playing in the American Hockey League (AHL). The team was founded in 2008 and is based in Ontario, California. The Reign are the AHL affiliate of the Los Angeles Kings of the National Hockey League (NHL). The team has had some notable players over the years, including Adrian Kempe, Michael Amadio, and Cal Petersen. The Reign play their home games at Toyota Arena in Ontario, which has a seating capacity of 9,736.",
+    "colors": [
+      "#000000",
+      "#c8102e",
+      "#fcb514",
+      "#8f8f8c"
+    ]
+  },
+  {
+    "name": "Providence Bruins",
+    "logo": "",
+    "blurb": "The Providence Bruins are an American Hockey League (AHL) team based in Providence, Rhode Island. They are the AHL affiliate of the Boston Bruins and have been a part of the league since 1992. The team has won two AHL championships, in 1999 and 2005, and has produced several NHL players over the years. The Providence Bruins play their home games at the Dunkin' Donuts Center, which has a capacity of 12,400.",
+    "colors": [
+      "#FDB813",
+      "#000000",
+      "#C8102E",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Rochester Americans",
+    "logo": "",
+    "blurb": "The Rochester Americans have been a part of the American Hockey League (AHL) since 1956 and have won six Calder Cup championships. They are affiliated with the NHL's Buffalo Sabres and play their home games at the Blue Cross Arena at the War Memorial in Rochester, New York. The team has a rich history and has produced many great players over the years, including Jody Gage, Don Cherry, and Randy Cunneyworth.",
+    "colors": [
+      "#00529c",
+      "#ffbd1b",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Rockford IceHogs",
+    "logo": "",
+    "blurb": "The Rockford IceHogs are a professional ice hockey team in the American Hockey League (AHL) and are the primary affiliate of the Chicago Blackhawks of the National Hockey League (NHL). The team was founded in 1995 and has been playing in Rockford, Illinois since 2007. The IceHogs have made it to the Calder Cup playoffs several times, but have yet to win a championship. They have a dedicated fan base in Rockford and the surrounding areas.",
+    "colors": [
+      "#C8102E",
+      "#FF671B",
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "San Diego Gulls",
+    "logo": "",
+    "blurb": "The San Diego Gulls are a professional ice hockey team in the American Hockey League (AHL). They were founded in 2015 and are affiliated with the National Hockey League's Anaheim Ducks. The team plays their home games at the Pechanga Arena in San Diego, California. The Gulls have had some successful seasons, making it to the AHL playoffs multiple times. Some notable players who have played for the Gulls include Shea Theodore, Nick Ritchie, and Brandon Montour.",
+    "colors": [
+      "#fdba31",
+      "#e51937",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "San Jose Barracuda",
+    "logo": "",
+    "blurb": "The San Jose Barracuda are a professional ice hockey team in the American Hockey League (AHL). They were founded in 2015 and are affiliated with the National Hockey League (NHL) team, the San Jose Sharks. The Barracuda play their home games at the SAP Center at San Jose in California. The team has not won a Calder Cup championship, but has made it to the playoffs several times since their inception.",
+    "colors": [
+      "#006d75",
+      "#ea7200",
+      "#fdba31"
+    ]
+  },
+  {
+    "name": "Springfield Thunderbirds",
+    "logo": "",
+    "blurb": "The Springfield Thunderbirds have been a part of the American Hockey League (AHL) since 2016 and are affiliated with the National Hockey League's (NHL) St. Louis Blues. The team is based in Springfield, Massachusetts and plays their home games at the MassMutual Center. The Thunderbirds have a strong fan base and have made the playoffs twice in their short history. Some notable players who have played for the Thunderbirds include goaltender Samuel Montembeault and forward Anthony Greco.",
+    "colors": [
+      "#ffcd00",
+      "#c8102e",
+      "#002d62",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Stockton Heat",
+    "logo": "",
+    "blurb": "The Stockton Heat are a professional ice hockey team in the American Hockey League (AHL) and are affiliated with the Calgary Flames of the National Hockey League (NHL). The team was founded in 2015 and plays their home games at the Stockton Arena in Stockton, California. The Heat have yet to win a Calder Cup championship, but have made the playoffs twice in their short history. The team has a dedicated fanbase and is known for their exciting style of play.",
+    "colors": [
+      "#e03a3e",
+      "#f1be48",
+      "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Syracuse Crunch",
+    "logo": "",
+    "blurb": "The Syracuse Crunch are a professional ice hockey team in the American Hockey League (AHL). They were founded in 1994 and have been the primary affiliate of the Tampa Bay Lightning since 2012. The team has won two conference championships and one division championship. The Crunch play their home games at the Upstate Medical University Arena at Onondaga County War Memorial in Syracuse, New York.",
+    "colors": [
+      "#006b3f",
+      "#fcb514",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Texas Stars",
+    "logo": "",
+    "blurb": "The Texas Stars are a professional ice hockey team playing in the American Hockey League (AHL). They were founded in 2009 and are based in Cedar Park, Texas. The team is an affiliate of the NHL's Dallas Stars. The Texas Stars have won one Calder Cup championship in 2014 and have made the playoffs seven times in their history. The team has had several notable players, including Jamie Benn, Alex Chiasson, and Patrik Nemeth.",
+    "colors": [
+      "#006847",
+      "#c8102e",
+      "#a2aaad",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Toronto Marlies",
+    "logo": "",
+    "blurb": "The Toronto Marlies are a professional ice hockey team in the American Hockey League (AHL). The team was founded in 2005 and is affiliated with the National Hockey League's Toronto Maple Leafs. The Marlies have won one Calder Cup championship in 2018 and have made it to the finals three times. The team plays their home games at the Coca-Cola Coliseum in Toronto, Ontario. The Marlies have a strong fan base and are known for their exciting style of play.",
+    "colors": [
+      "#003E7E",
+      "#FFFFFF",
+      "#FFC82C"
+    ]
+  },
+  {
+    "name": "Tucson Roadrunners",
+    "logo": "",
+    "blurb": "The Tucson Roadrunners are a professional ice hockey team in the American Hockey League (AHL) and are the primary development affiliate of the Arizona Coyotes of the National Hockey League (NHL). The team was founded in 2016 and plays their home games at the Tucson Convention Center. Despite being a relatively new team, they have already made it to the playoffs in two of their four seasons. The Roadrunners have a strong following in Tucson and are known for their fast-paced, exciting style of play.",
+    "colors": [
+      "#ad1c2c",
+      "#ffffff",
+      "#000000"
+    ]
+  },
+  {
+    "name": "Utica Comets",
+    "logo": "",
+    "blurb": "The Utica Comets are a professional ice hockey team based in Utica, New York. They were founded in 2013 and are the AHL affiliate of the Vancouver Canucks. The team plays their home games at the Adirondack Bank Center, which has a capacity of 3,860. The Comets have a strong following in Utica and the surrounding area, and have made several playoff appearances in their short history.",
+    "colors": [
+      "#00205b",
+      "#00843d",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Wilkes-Barre Penguins",
+    "logo": "",
+    "blurb": "The Wilkes-Barre/Scranton Penguins are a professional ice hockey team based in Wilkes-Barre, Pennsylvania. They were founded in 1999 as an American Hockey League (AHL) franchise and are currently the AHL affiliate of the Pittsburgh Penguins. The team has had a lot of success over the years, making the playoffs in each of their first 16 seasons and winning the Macgregor Kilpatrick Trophy as the AHL's regular-season champions twice. Despite this success, they have yet to win a Calder Cup championship. The Penguins play their home games at the Mohegan Sun Arena at Casey Plaza, which has a seating capacity of 8,300.",
+    "colors": [
+      "#000000",
+      "#cfc493",
+      "#fcb514"
+    ]
+  }
+]
+},
+{
+  "league": "Premier League",
+  "abbreviation": "EPL",
+  "sport": "football",
+  "logo": "epl.png",
+  "league-colors": [
+    "#3d195b",
+    "#ffffff"
+  ],
+  "teams": [
+    {
+      "name": "Arsenal",
+      "colors": [
+        "#ef0107",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Aston Villa",
+      "colors": [
+        "#95bfe5",
+        "#752329"
+      ]
+    },
+    {
+      "name": "Brentford",
+      "colors": [
+        "#ef4135",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "colors": [
+        "#0057b8",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Burnley",
+      "colors": [
+        "#6c1d45",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Chelsea",
+      "colors": [
+        "#034694",
+        "#edb928"
+      ]
+    },
+    {
+      "name": "Crystal Palace",
+      "colors": [
+        "#1b458f",
+        "#a70017"
+      ]
+    },
+    {
+      "name": "Everton",
+      "colors": [
+        "#003399",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Leeds United",
+      "colors": [
+        "#1d428a",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Leicester City",
+      "colors": [
+        "#003090",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "colors": [
+        "#c8102e",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Manchester City",
+      "colors": [
+        "#6cabdd",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Manchester United",
+      "colors": [
+        "#da291c",
+        "#ffe500"
+      ]
+    },
+    {
+      "name": "Newcastle United",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Norwich City",
+      "colors": [
+        "#fff200",
+        "#00945e"
+      ]
+    },
+    {
+      "name": "Southampton",
+      "colors": [
+        "#d71920",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "colors": [
+        "#132257",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Watford",
+      "colors": [
+        "#fbee23",
+        "#ed2127"
+      ]
+    },
+    {
+      "name": "West Ham United",
+      "colors": [
+        "#7a263a",
+        "#1bb1e7"
+      ]
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "colors": [
+        "#fdb913",
+        "#000000"
+      ]
+    }
+  ]
+},
+{
+  "league": "La Liga",
+  "abbreviation": "LALIGA",
+  "sport": "football",
+  "logo": "laliga.png",
+  "league-colors": [
+    "#004d98",
+    "#db0030"
+  ],
+  "teams": [
+    {
+      "name": "Alavés",
+      "colors": [
+        "#2557a7",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Athletic Bilbao",
+      "colors": [
+        "#bb0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Atlético Madrid",
+      "colors": [
+        "#cb3524",
+        "#ffffff",
+        "#003c7a"
+      ]
+    },
+    {
+      "name": "Barcelona",
+      "colors": [
+        "#a50044",
+        "#003594"
+      ]
+    },
+    {
+      "name": "Cádiz",
+      "colors": [
+        "#ffd700",
+        "#0033a0"
+      ]
+    },
+    {
+      "name": "Celta Vigo",
+      "colors": [
+        "#0077c8",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Eibar",
+      "colors": [
+        "#0000ff",
+        "#ff0000"
+      ]
+    },
+    {
+      "name": "Elche",
+      "colors": [
+        "#00874a",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Getafe",
+      "colors": [
+        "#0070bb",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Granada",
+      "colors": [
+        "#981e32",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Levante",
+      "colors": [
+        "#c80000",
+        "#1a2d68"
+      ]
+    },
+    {
+      "name": "Mallorca",
+      "colors": [
+        "#e00025",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Osasuna",
+      "colors": [
+        "#ff0000",
+        "#003e89"
+      ]
+    },
+    {
+      "name": "Rayo Vallecano",
+      "colors": [
+        "#ff0000",
+        "#ffffff"        
+      ]
+    },
+    {
+      "name": "Real Betis",
+      "colors": [
+        "#009b45",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Real Madrid",
+      "colors": [
+        "#003399",
+        "#ffffff"
+        
+      ]
+    },
+    {
+      "name": "Real Sociedad",
+      "colors": [
+        "#233b9d",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Sevilla",
+      "colors": [
+        "#ff0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Valencia",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Villarreal",
+      "colors": [
+        "#ffc300",
+        "#004a7f"
+      ]
+    }
+  ]
+},
+{
+  "league": "Serie A",
+  "abbreviation": "SerieA",
+  "sport": "football",
+  "logo": "seriea.png",
+  "league-colors": [
+    "#006bb3",
+    "#ffffff"
+  ],
+  "teams": [
+    {
+      "name": "Atalanta",
+      "colors": [
+        "#1a2d68",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Bologna",
+      "colors": [
+        "#9b1a2b",
+        "#2c3e50"
+      ]
+    },
+    {
+      "name": "Cagliari",
+      "colors": [
+        "#dd0e45",
+        "#1b458f"
+      ]
+    },
+    {
+      "name": "Empoli",
+      "colors": [
+        "#004297",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Fiorentina",
+      "colors": [
+        "#5b0bb2",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Genoa",
+      "colors": [
+        "#da020e",
+        "#0e3a53"
+      ]
+    },
+    {
+      "name": "Hellas Verona",
+      "colors": [
+        "#0066b2",
+        "#f0e711"
+      ]
+    },
+    {
+      "name": "Inter Milan",
+      "colors": [
+        "#1a2d68",
+        "#0077d8",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Juventus",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Lazio",
+      "colors": [
+        "#587bc7",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Milan",
+      "colors": [
+        "#ff0000",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Napoli",
+      "colors": [
+        "#0c71da",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Roma",
+      "colors": [
+        "#a01932",
+        "#ffcc00"
+      ]
+    },
+    {
+      "name": "Sampdoria",
+      "colors": [
+        "#1e4a8c",
+        "#da0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Sassuolo",
+      "colors": [
+        "#2a6e52",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Spezia",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Torino",
+      "colors": [
+        "#8c0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Udinese",
+      "colors": [
+        "#000000",
+        "#ffffff"
+        
+      ]
+    },
+    {
+      "name": "Venezia",
+      "colors": [
+        "#000000",
+        "#cd212a",
+        "#4ac4c4"
+      ]
+    }
+  ]
+},
+{
+  "league": "Bundesliga",
+  "abbreviation": "BL",
+  "sport": "football",
+  "logo": "bundesliga.png",
+  "league-colors": [
+    "#d3010d",
+    "#ffffff"
+  ],
+  "teams": [
+    {
+      "name": "Arminia Bielefeld",
+      "colors": [
+        "#0000ff",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Augsburg",
+      "colors": [
+        "#0088c9",
+        "#ffffff",
+        "#d11a33"
+      ]
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "colors": [
+        "#f4002b",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Bayern Munich",
+      "colors": [
+        "#dd0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Borussia Dortmund",
+      "colors": [
+        "#ffcd00",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Borussia Mönchengladbach",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "colors": [
+        "#a50044",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Freiburg",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Greuther Fürth",
+      "colors": [
+        "#00a138",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Hertha BSC",
+      "colors": [
+        "#0046a8",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Hoffenheim",
+      "colors": [
+        "#0080ff",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Mainz 05",
+      "colors": [
+        "#d10425",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "RB Leipzig",
+      "colors": [
+        "#dd0000",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Stuttgart",
+      "colors": [
+        "#eb1736",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Union Berlin",
+      "colors": [
+        "#e20a16",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "VfL Bochum",
+      "colors": [
+        "#1a4497",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "VfL Wolfsburg",
+      "colors": [
+        "#339933",
+        "#ffffff"
+      ]
+    }
+  ]
+}, 
+{
+  "league": "Ligue 1",
+  "abbreviation": "L1",
+  "sport": "football",
+  "logo": "ligue1.png",
+  "league-colors": [
+    "#cdf615",
+    "#ffffff"
+  ],
+  "teams": [
+    {
+      "name": "Angers SCO",
+      "colors": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Bordeaux",
+      "colors": [
+        "#4a4a4a",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Brest",
+      "colors": [
+        "#d81e05",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Clermont Foot",
+      "colors": [
+        "#0000ff",
+        "#ff0000"
+      ]
+    },
+    {
+      "name": "Lille",
+      "colors": [
+        "#e2001a",
+        "#1f3f99"
+      ]
+    },
+    {
+      "name": "Lorient",
+      "colors": [
+        "#e50a0a",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Lyon",
+      "colors": [
+        "#00429d",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Marseille",
+      "colors": [
+        "#1c3c72",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Metz",
+      "colors": [
+        "#c9282d",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Monaco",
+      "colors": [
+        "#d81e05",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Montpellier",
+      "colors": [
+        "#122f67",
+        "#ff0000"
+      ]
+    },
+    {
+      "name": "Nantes",
+      "colors": [
+        "#ffd700",
+        "#1f3f99"
+      ]
+    },
+    {
+      "name": "Nice",
+      "colors": [
+        "#e31837",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "colors": [
+        "#004170",
+        "#ffffff",
+        "#e5002f"
+      ]
+    },
+    {
+      "name": "Reims",
+      "colors": [
+        "#d71f25",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Rennes",
+      "colors": [
+        "#db0018",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Saint-Étienne",
+      "colors": [
+        "#0e9f45",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Strasbourg",
+      "colors": [
+        "#0063af",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Troyes",
+      "colors": [
+        "#1c39bb",
+        "#ffffff"
+      ]
+    }
+  ]
+},
+{
+  "league": "EuroLeague Basketball",
+  "abbreviation": "EL",
+  "sport": "basketball",
+  "logo": "euroleague.png",
+  "league-colors": [
+    "#f95500",
+    "#ffffff"
+  ],
+  "teams": [
+    {
+      "name": "Alba Berlin",
+      "colors": [
+        "#ffcc00",
+        "#000000"
+      ]
+    },
+    {
+      "name": "Anadolu Efes",
+      "colors": [
+        "#024894",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "AS Monaco Basket",
+      "colors": [
+        "#e5002f",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "AX Armani Exchange Milan",
+      "colors": [
+        "#000000",
+        "#ffffff"
+        
+      ]
+    },
+    {
+      "name": "Baskonia",
+      "colors": [
+        "#0033a0",
+        "#d0103a"
+      ]
+    },
+    {
+      "name": "CSKA Moscow",
+      "colors": [
+        "#ce1126",
+        "#0037a0"
+      ]
+    },
+    {
+      "name": "FC Barcelona",
+      "colors": [
+        "#004d98",
+        "#a50044"
+      ]
+    },
+    {
+      "name": "Fenerbahçe",
+      "colors": [
+        "#194f97",
+        "#ffd700"
+      ]
+    },
+    {
+      "name": "Maccabi Tel Aviv",
+      "colors": [
+        "#e0aa00",
+        "#24449c"
+      ]
+    },
+    {
+      "name": "Olympiacos",
+      "colors": [
+        "#ce1126",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Panathinaikos",
+      "colors": [
+        "#018240",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Real Madrid",
+      "colors": [
+        "#1a3d95",
+        "#ffffff"
+        
+      ]
+    },
+    {
+      "name": "UNICS Kazan",
+      "colors": [
+        "#00873f",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Zalgiris Kaunas",
+      "colors": [
+        "#007a33",
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Zenit Saint Petersburg",
+      "colors": [
+        "#0054a6",
+        "#ffffff"
+      ]
+    }
+  ]
+}
+
+
+
+]
